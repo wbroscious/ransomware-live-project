@@ -1,0 +1,11 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/NoEscape/20230912,NoEscape,20230912,1,gang,"Hello sir.
+Can i help you?",18:21 12.09.2023
+https://www.ransomware.live/nego/NoEscape/20230912,NoEscape,20230912,2,victim,"Hi, yes please",23:16 18.09.2023
+https://www.ransomware.live/nego/NoEscape/20230912,NoEscape,20230912,3,gang,"Hello.
+Your company's servers/computers have been encrypted and compromised by NoEscape ransomware.
+
+To get our special software to recover all your files, you need to send us the amount in Bitcoin shown on your page. That's roughly the equivalent of $80,000
+
+You should know that only we can recover your files and no one else. Only we have the software that can do this. If you try to restore it yourself or someone else tries to do it, your files will be permanently deleted.",00:08 19.09.2023
+https://www.ransomware.live/nego/NoEscape/20230912,NoEscape,20230912,4,gang,"In order to check that we can actually recover your files, you can use the test decryptor on your page. You need to upload 1 image up to 5MB in size.",00:10 19.09.2023

@@ -1,0 +1,15 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,1,gang,"Hello, are you ready to negotiate?","4/28/2021, 2:17:12 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,2,victim,"negotiate, really?","5/21/2021, 8:14:23 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,3,gang,That is totally real.,"5/22/2021, 11:26:03 AM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,4,gang,If we will not receive the reply from your side we will start contacting all of your clients and employees to notify them about the breach and on how you mantain privacy and information security and on how you value their data.,"5/24/2021, 7:09:43 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,5,victim,"please don't. lets talk what you got and what you need, shall we?","5/25/2021, 12:54:05 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,6,gang,The demand for the decryption tool and removing the stolen data from our servers is $4mil. If you do not need the tool and are already recovered - let me know and we will provide a solid discount. The datapack example and parts of the file listing will be provided later today.,"5/25/2021, 1:23:01 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,7,gang,[redacted]_full_listing.txt [ 5.3MB ],"5/25/2021, 2:11:00 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,8,gang,example_datapack.rar [ 689kB ],"5/25/2021, 2:11:17 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,9,gang,"You can choose any 2 files from the listing, we will discard them as proof that the files were really stolen.
+You can also send 2 files for a free decrypt.","5/25/2021, 5:14:43 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,10,gang,And you better do it. Asap.,"5/25/2021, 10:43:22 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,11,gang,Any update?,"5/26/2021, 2:15:20 PM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,12,gang,"We need your reply tomorrow, otherwise we shall start actions.","5/27/2021, 8:58:09 AM"
+https://www.ransomware.live/nego/Conti/20210428,Conti,20210428,13,gang,"Ok, you've made your choice. Now we will have to make sure that we have your attention.","5/31/2021, 9:57:35 AM"

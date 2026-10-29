@@ -1,0 +1,78 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,1,gang,"Hello and welcome to Hive.
+How may I help you?",4 October 05:53
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,2,victim,i saw a text file and it had login info to come here.,6 October 22:30
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,3,gang,"To decrypt your files you will need to pay $500,000.",6 October 22:33
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,4,gang,The price is not a subject to discuss.,6 October 22:33
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,5,victim,"i think theres a mix up or something. i am apr supply like it says here, but weve never had that much revenue. could there be a mixup? $500,000 would be impossible for me to pay",6 October 22:40
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,6,victim,is anyone here?,7 October 14:03
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,7,gang,The price isn't negotiable.,7 October 20:11
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,8,victim,What happens if I can't pay?,7 October 22:05
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,9,gang,Nothing. You will not be able to decrypt. Your exfiltrated files will be disclosed. We will make calls to your partners and customers to notify them about the incident.,7 October 22:25
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,10,victim,does exfiltrated files mean you took files from me?,7 October 23:02
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,11,gang,"yes, not so much, but it will be enough to confirm the incedent",7 October 23:03
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,12,victim,what files did you take?,7 October 23:05
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,13,victim,can you show me what files you have?,8 October 20:05
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,14,victim,how can i know you can fix my files?,9 October 00:03
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,15,victim,did you take any files?,9 October 00:03
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,16,victim,is anyone here,9 October 00:03
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,17,gang,"You are able to upload encrypted files and a key file locates at C:\*.key.*
+Encrypted files must not contain important info in it.",9 October 00:29
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,18,victim,k Ill upload them,9 October 00:30
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,19,victim,there,9 October 00:33
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,20,victim,can u open these,9 October 00:46
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,21,gang,I have uploaded decrypted file,9 October 12:23
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,22,victim,ok that file worked,9 October 15:45
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,23,victim,how do i know which files you took from me?,9 October 15:45
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,24,gang,You will get an access to your exfiltrated files storage,9 October 15:47
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,25,victim,can you prove that you took any files?,9 October 16:46
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,26,gang,"Yes, we will do that in few hours.",9 October 17:41
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,27,gang,"Done, you can check it.",9 October 19:25
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,28,victim,this is a list of files from my computer. are you saying you have these? how can i know this for sure?,9 October 20:41
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,29,gang,Select any without important info in it and we will upload it for you,9 October 20:42
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,30,victim,"2021 show discounts.xlsx
+
+[redacted] VENDOR NOTES.docx
+
+[redacted] customer sales April – June 2019.xlsx",9 October 22:53
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,31,gang,"Okay, few min",9 October 22:53
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,32,victim,thanks,9 October 22:59
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,33,gang,Done,9 October 23:07
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,34,victim,thanks,9 October 23:34
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,35,gang,"Hello, the timer is almost gone.
+We will publish your data soon.",15 October 15:00
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,36,victim,alright. im gathering up all my funds and will let you know how much i can pay,15 October 15:57
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,37,victim,"i can pay you $84,600.",15 October 17:02
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,38,victim,"i dont need a program to fix my files, but id like to keep my files from being published on the net if possible",15 October 17:02
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,39,gang,To convince you to pay we can make calls to your partners and customers to notify them about the incident.,15 October 17:53
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,40,victim,"i can pay. i said i have 84,600",15 October 18:21
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,41,gang,"The price is $500,000.",15 October 18:24
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,42,victim,ill need time to find more money.,15 October 18:47
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,43,gang,I'll wait,15 October 18:48
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,44,victim,"okay. if my files or name is posted before i pay, i wont pay. i don't know what this timer is counting down to",15 October 18:50
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,45,gang,I have extended it,15 October 18:52
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,46,victim,thanks,15 October 19:01
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,47,gang,You have to make a decision.,20 October 23:00
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,48,victim,"okay. i got a SBA 7(a) loan and put up all my assets as collateral so i can pay you. it hasn't funded yet, but should in the morning. when it does, i'll have a total of $112,838 that i can pay you. i know the price if $500k, but i just dont have that much money.",21 October 02:20
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,49,victim,"if this is enough, please explain how i get the money to you. thanks",21 October 02:22
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,50,victim,"hello? is $112,838 enough? if so, how do i pay?",21 October 16:24
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,51,gang,"To decrypt your files and to prevent them to be disclosed you will need to pay $500,000.",21 October 16:43
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,52,gang,The price is not a subject to discuss.,21 October 16:43
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,53,victim,im trying to get as much money as possible and as fast as possible. im going to need more time. ill keep working on this through the weekend and see how much more i can get. i wont be able to find over 300k and pay in an hour,21 October 16:50
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,54,victim,"thanks. the timer expires on Sunday. Even i can find all the money by then, i won't be able to pay until monday. it would be helpful to not have to worry about the timer until tuesday to give me time to figure out the bitcoin",21 October 17:01
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,55,gang,Okay,21 October 17:07
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,56,victim,thank you,21 October 17:18
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,57,gang,"Okay, I'll give you time",21 October 16:51
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,58,gang,Hello?,29 October 02:06
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,59,victim,Hi! I'm here. I was able to get more money. Waiting for confirmation of the amount. I'll let ya know asap,29 October 02:08
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,60,gang,Okay.,29 October 02:09
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,61,victim,"hi. i have confirmation from my team that we have $275,800 available. i contacted a couple of bitcoin sellers so should be able to figure that part out as well. is this enough that we could pay?",29 October 15:11
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,62,gang,"Okay, I agree",29 October 18:56
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,63,gang,"At the time of transfer, the amount have to be equal $275,800 in BTC.",30 October 02:57
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,64,victim,I will transfer the funds to bitcoin company on monday.,30 October 03:28
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,65,victim,"The timer will run out before then, but I'm guessing that it shouldn't be a problem. Thank you for your help",30 October 03:34 Read
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,66,gang,Okay.,30 October 03:51
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,67,gang,What is ETA on the payment?,2 November 17:05
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,68,victim,"Hi there! My bank is scrutinizing the wire transfer from me to coinbase. They are asking a lot of questions because they say these types of transfers are related to fraud. I'm telling them that I'm investing in bitcoin, so it should be okay. I'll let you know.",2 November 17:16
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,69,gang,Okay.,2 November 17:18
+https://www.ransomware.live/nego/Hive/20211004,Hive,20211004,70,gang,It's time to pay,12 November 22:31

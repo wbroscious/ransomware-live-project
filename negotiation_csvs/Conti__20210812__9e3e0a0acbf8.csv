@@ -1,0 +1,72 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,1,victim,Hello we found the read me note which brought us here.,"12/08/2021, 19:03:07"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,2,gang,"This is ContiLocker Team.
+Please, introduce yourself (Company name and your position) and we'll provide all necessary information.
+Sometimes our staff is busy, but we will reply as soon as possible.
+Be in touch, thank you","13/08/2021, 04:26:43"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,3,victim,"Hello, I'm with [redacted], one of the IT Engineers. Please do get back to us as soon as possible with the necessary information.","13/08/2021, 14:25:51"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,4,gang,"As you already know, we penetrated your network and were in it for over 2 weeks (enough to study all your documentation), encrypted your file servers, sql-servers, downloaded all important information weighing over 100 GB: personal data of customers, employees (home addresses, scans of personal documents, phone numbers), consolidated financial reports, studies, payrolls, bank statements.
+The good news is, we're businessmen. We want a ransom for anything that needs to be kept secret, and we don't want to ruin your business.
+The amount at which we are willing to go out on a limb for you and leave everything as collateral is $300,650. After payment, we will give you a tool to decrypt all your machines, a security report on how you were hacked, a file tree of what we downloaded from your network, and a log of the erasure of that information.","13/08/2021, 15:22:28"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,5,victim,How do we know that you can decrypt our machines? Can you decrypt a few files first?,"13/08/2021, 16:30:55"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,6,gang,"Yes, send 2-3 files to the chat room","13/08/2021, 17:26:13"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,7,victim,IOS Mitel mobile.docx.[redacted] [ 3.8MB ],"13/08/2021, 17:31:41"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,8,victim,[redacted] Logo.png.[redacted] [ 27kB ],"13/08/2021, 17:31:53"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,9,victim,[redacted] Prompts.docx.[redacted] [ 17kB ],"13/08/2021, 17:32:03"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,10,gang,IOS Mitel mobile.docx [ 3.8MB ],"13/08/2021, 20:39:48"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,11,gang,[redacted] Logo.png [ 26kB ],"13/08/2021, 20:39:55"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,12,gang,[redacted] Prompts.docx [ 17kB ],"13/08/2021, 20:40:03"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,13,gang,"On Tuesday, we will begin publishing and selling your data. You are only a small loss of profit for us.","15/08/2021, 01:11:13"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,14,gang,50%.txt [ 5.7MB ],"15/08/2021, 01:13:39"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,15,gang,"You can look at the list, it has half the data we took.","15/08/2021, 01:15:41"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,16,victim,Thank you for providing this. We will be back in touch on Monday,"16/08/2021, 02:10:11"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,17,gang,It is Monday already. We're waiting for your decision.,"16/08/2021, 16:17:59"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,18,victim,"Hello, I am sorry we are a small school we are still discussing internally. Please give us some more time we want to continue a dialogue with you. We just need some more time to talk with our management team. Thank you","16/08/2021, 18:13:32"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,19,gang,24 hours.,"16/08/2021, 18:56:25"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,20,victim,Please work with us here we are a small college who serves the under privileged. The amount you're asking is something we cannot pay.,"16/08/2021, 21:27:59"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,21,gang,We are here. Your offer?,"16/08/2021, 21:49:57"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,22,victim,"We have $75,000 on hand that we could pay as soon as possible. Will you accept that?","17/08/2021, 01:28:12"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,23,gang,"$75,000?
+Don't try to cheat us.
+We have got a lot of your data and encrypted your system.
+We have got a serious amount of your contracts and documentation.
+We have the personal data of your employees.
+We got a lot of information about your company from our pentest and OSINT departments.
+And you are trying to offer us a bit more than the yearly salary of a regular manager?
+This sum can cover only a part of the total amount we can get by selling your data and vulnerabilities on auctions.
+Moreover, because we are now aware of your network structure, the next attack can be implemented in a short time.
+It looks like you think we are stupid. Just a simple pentest on your company will cost about $40-50 thousand. And this is a price without stolen data.
+You have one more chance to give us an adequate offer. Otherwise, we will raise the ransom amount.
+We can only give you a small discount, if you decide to pay in 24 hours. Let your price be $250,000.","17/08/2021, 16:01:17"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,24,victim,"$250,000 is too much for us. We are talking internally to see if we can borrow or loan an additional amount which would give us $135,000. We are working to get this done as quickly as possible. Will you accept $135,000. We want to work with you, but please work with us.","17/08/2021, 17:39:39"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,25,gang,"Okay, this is closer to a good offer. We can accept $175,000 if payment will be provided in 2 days.","17/08/2021, 18:10:45"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,26,victim,"With the loan we are able to get a bit more and can pay $150,000. We can do this in 2 days or less. Please work with us here.","17/08/2021, 20:57:15"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,27,gang,"Okay. Here is Bitcoin address:
+ [redacted]","17/08/2021, 21:09:46"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,28,gang,"Contact us immediately as the payment of $150,000 will be sent.","17/08/2021, 21:10:22"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,29,gang,After this you will receive the decryption software and recommendations to avoid such an accidents in future.,"17/08/2021, 21:24:51"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,30,victim,Ok thank you I will let my management know and will keep you updated,"17/08/2021, 21:34:43"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,31,victim,Just to confirm that after payment we will receive the decryption tool that will work to decrypt all of the impacted files from your malware and we will also receive a full file tree and proof of deletion of our data?,"17/08/2021, 21:35:47"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,32,gang,Yes,"17/08/2021, 21:36:16"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,33,victim,We are working on the payment. Still waiting on the wire. We will still have it with in the two days. Thank you for your patience.,"18/08/2021, 21:49:56"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,34,gang,"okay, we are waiting. Bitcoin address is actual; please be attentive, the address is case-sensitive.","18/08/2021, 21:51:45"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,35,victim,"Thank you and just to be clear this is the address we are to pay
+[redacted]","18/08/2021, 23:59:06"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,36,victim,"Ok we made the payment. Can you please provide the tool, the full file listing and proof of deletion of files.","19/08/2021, 01:01:56"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,37,gang,We will work on confirming your payment and after this will make sure that you get everything,"19/08/2021, 04:18:03"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,38,victim,"Hello just checking in again. Please provide everything. Here is confirmation
+https://blockstream.info/address/[redacted]","19/08/2021, 14:04:21"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,39,gang,[redacted]_decryptor.exe [ 103kB ],"19/08/2021, 15:40:35"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,40,gang,"Decryptor:  
+1) Launch the decryptor under Administrative rights  
+2) Wait till the decryptor window is closed  
+3) if any of the files haven't changed the extension back to the original - repeat 1 and 2","19/08/2021, 15:41:04"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,41,gang,"Our advice to you. Put a server in the domain that will download daily updates from Microsoft. And once a week or twice a week, distribute updates from this server to all computers and servers on your network. Thus, in the future you will protect your network from known public vulnerabilities. Also install Black Carbon or Sentinel antivirus. Make it a rule to change all important passwords once a month.
+You got a malware virus somewhere on the Internet. We used that tool and accessed your terminal. We received all necessary passwords from over there. The rest was easy.","19/08/2021, 19:24:37"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,42,victim,Thank you. When will you provide the full file listing of data as well as the proof of deletion?,"19/08/2021, 20:41:10"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,43,gang,"We are preparing your data for you. It's okay, we keep our word.","20/08/2021, 04:06:33"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,44,victim,Thank you,"20/08/2021, 14:18:18"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,45,victim,"Hello, just checking in on the data again","22/08/2021, 17:00:43"
+https://www.ransomware.live/nego/Conti/20210812,Conti,20210812,46,gang,"Mega.nz
+[redacted]@protonmail.com
+[redacted]","23/08/2021, 13:50:44"

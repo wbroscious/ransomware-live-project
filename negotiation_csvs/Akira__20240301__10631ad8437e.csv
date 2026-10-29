@@ -1,0 +1,54 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,1,victim,hi,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,2,victim,hi,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,3,victim,hi,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,4,victim,anybody out there?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,5,victim,hello?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,6,gang,"Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.
+
+Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,7,victim,"nobody seems to be there, we will come back later",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,8,gang,Do you see our messages?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,9,victim,"hi there, got another tor browser, now I see your messages",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,10,victim,"yes, I have a permission to negotiate on behalf of my organization",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,11,gang,Please wait for details.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,12,victim,hello?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,13,victim,"I can't see any message after your ""Do you see our messages?""",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,14,victim,I will come back to check new messages,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,15,victim,hello?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,16,gang,Can you see my message?,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,17,victim,yes,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,18,victim,"now I see ""Can you see my message?"", but I had to log out and log in again",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,19,victim,it seems that I don't get an update in the chat directly,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,20,victim,"we will come back later as ""please wait"" seems to be a bit longer",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,21,gang,List.rar // 2.48 MB,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,22,gang,These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,23,victim,I got the list and will check which files we want to see as prove of possession,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,24,gang,Standing by.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,25,victim,we would like to see the following 3 files:,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,26,victim,D:\[redacted].log,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,27,victim,D:\[redacted].refs,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,28,victim,D:\[redacted].png,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,29,gang,Please wait.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,30,victim,"Take your time, I will come back on monday",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,31,victim,"hi there, back again and ready to receive your files",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,32,gang,The files will be uploaded shortly.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,33,gang,files.rar // 19.6 KB,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,34,gang,"Please review. Give me encrypted files asap, if you want to test our decryption tool.",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,35,victim,"got your files and check them, will come back with encrypted files asap",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,36,gang,We are standing by to the files.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,37,victim,abc.akira // 21.6 KB,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,38,victim,uploaded the one file to test the decryption tool,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,39,gang,abc // 21.1 KB,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,40,victim,"ok, matches, so: what next?",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,41,gang,"So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. We're willing to set a $350,000 price for ALL the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,42,victim,We decline and will not pay anything. This conversion is over.,
+https://www.ransomware.live/nego/Akira/20240301,Akira,20240301,43,gang,OK. Thank you for the information.,

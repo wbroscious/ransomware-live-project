@@ -1,0 +1,49 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,1,victim,"Hello, we found notes on our systems and can’t get into our files. The text file said to download this browser and contact someone at this link. What is going on and how do we get our data and systems back up and going?",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,2,gang,"Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,3,victim,"Yes, I have permission to speak with you from our leadership. Please provide us with the details when you have a chance.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,4,gang,List.rar // 104 KB,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,5,gang,"These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,6,victim,We have reviewed the file listing you sent and we'd like to request the following files be sent to us:,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,7,victim,D:\DATA\[redacted].com\[redacted].xlsx,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,8,victim,D:\DATA\[redacted].com\[redacted].xlsx,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,9,victim,D:\DATA\[redacted].com\[redacted].txt,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,10,gang,Please wait.,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,11,gang,Files.rar // 14.6 KB,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,12,gang,Here are the files. Do you want to test our decryption tool?,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,13,gang,Are you going to work with us?,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,14,gang,"You have 24 hours to give us your decision regarding this deal. If you stay silent, we will announce the breach on our blog.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,15,victim,"Hello, we are wanting to get this to some sort of resolution, but I don't see where you've even asked for anything yet. Can you provide us with that and please stop sending emails out to employees? We will communicate with you here and only here.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,16,gang,"We're willing to set a $850,000 price for ALL the services we offer. We accept payments in BTC. To gain bitcoins you need to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. If you need to test our decryption tool, today is the your last chance to provide encrypted files.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,17,victim,"Okay, we do not have anywhere near that amount, and our executive team wants to know that you can actually fix our servers and files if we pay you. How do we send you files?",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,18,gang,The price is justified. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back.,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,19,victim,"Okay, the files are attached.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,20,victim,[redacted].xml.akira // 3.67 KB,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,21,victim,[redacted].ps1.akira // 805 Bytes,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,22,victim,[redacted].txt.akira // 13.9 KB,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,23,gang,Please wait.,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,24,gang,Decrypted.7z // 5 KB,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,25,gang,Here are the files. Are you ready to proceed with payment?,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,26,victim,"Okay, whats your bottom dollar? We want to move on from this.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,27,gang,"We've already provided the price. It is $850,000. Are you interested in the whole deal?",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,28,victim,"What do you mean by whole deal? We cannot afford anywhere near this 850k amount you’ve asked for. If you have better pricing for various parts of the whole deal, I can take it to our next meeting.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,29,gang,"1) Full decryption assistance $600,000;
+2) evidence of data removal $350,000;
+3) security report on vulnerabilities we found $35,000;
+Guarantees are included to the option 2.
+It looks like our negotiations are dragging on. Let us know your decision asap, as we need to close the case.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,30,gang,What's your decision?,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,31,victim,"Okay, we've set up a board meeting for Monday afternoon. It's the earliest we could get everyone together because of the holiday weekend. We want to work with you to have our data deleted, and ask if that is your best price for that? The 350,000 is a lot of money and we highly doubt the Board will go for that.  What is the lowest price you'll accept for our data removal, to make our meeting easier to facilitate.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,32,gang,"This is the lowest. Show the list of files to your board. That will force them to make the right decision. Also tell them that the files we took, will be published on darknet, if they refuse to pay what we ask.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,33,gang,Decisions?,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,34,victim,"Management made it clear during the Board meeting yesterday that 350,000 is way above our threshold to pay.  Our CEO is aware of a larger company run by a good friend which had the same issue last year, and the settled for $20,000 for what you call the whole deal.  So to just delete our data, the expectation is it shouldn't even be that high. If we could do the whole deal for 20,000, we could probably close it this week - if we could figure out how to buy and send bitcoin.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,35,gang,"This friend seems to be trying to eliminate a competitor. We will not accept this offer and will make an announcement of the incident soon. If you receive an advice from another friend, please let us know asap.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,36,victim,"You didn’t acknowledge the 20,000 we have on hand to pay you. Will you accept this? Otherwise we need you to work with us, we cannot come anywhere close to the amount you are demanding.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,37,gang,We're not going to discuss 5 figure sums. Don't waste our time.,
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,38,victim,"Well, we do not have funds to get to your number. We need you to work with us in realistic amounts that can be achieved. If you actually want to reach an agreement.",
+https://www.ransomware.live/nego/Akira/20250328,Akira,20250328,39,gang,"$290,000 for the option 2 is the best what we can do. Let us know today, if you are interested. Otherwise, we will have to cancel the deal.",

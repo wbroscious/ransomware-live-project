@@ -1,0 +1,1761 @@
+{
+  "total_negotiations": 292,
+  "processed": 292,
+  "successful": 291,
+  "failed": 1,
+  "messages": 13530,
+  "complete": false,
+  "results": [
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260320",
+      "status": "ok",
+      "messages": 12,
+      "csv": "negotiation_csvs/Akira__20260320__c1ffd9299a7a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260224",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/Akira__20260224__3db79ac583b2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260315",
+      "status": "ok",
+      "messages": 38,
+      "csv": "negotiation_csvs/Akira__20260315__18948281c115.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260216",
+      "status": "ok",
+      "messages": 77,
+      "csv": "negotiation_csvs/Akira__20260216__e326da1a155e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260212",
+      "status": "ok",
+      "messages": 26,
+      "csv": "negotiation_csvs/Akira__20260212__b8db65ff4ed4.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260125",
+      "status": "ok",
+      "messages": 52,
+      "csv": "negotiation_csvs/Akira__20260125__b754b568dd6a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250909",
+      "status": "ok",
+      "messages": 56,
+      "csv": "negotiation_csvs/Akira__20250909__3d4c437b5bd4.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250815",
+      "status": "ok",
+      "messages": 65,
+      "csv": "negotiation_csvs/Akira__20250815__47fe9117f019.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20260106",
+      "status": "ok",
+      "messages": 47,
+      "csv": "negotiation_csvs/Akira__20260106__4178c7532db0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250524",
+      "status": "ok",
+      "messages": 41,
+      "csv": "negotiation_csvs/Akira__20250524__e562c3ee181a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250511",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/Akira__20250511__996883ad39f3.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250425",
+      "status": "ok",
+      "messages": 83,
+      "csv": "negotiation_csvs/Akira__20250425__44941b44a819.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250428",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/Akira__20250428__0aad203aac8a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250424",
+      "status": "ok",
+      "messages": 12,
+      "csv": "negotiation_csvs/Akira__20250424__ed7ff26d3ac9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250421",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/Akira__20250421__004c0e910114.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250408",
+      "status": "ok",
+      "messages": 12,
+      "csv": "negotiation_csvs/Akira__20250408__c91b682ed2ce.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250417",
+      "status": "ok",
+      "messages": 59,
+      "csv": "negotiation_csvs/Akira__20250417__c55e7e78db28.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250423",
+      "status": "ok",
+      "messages": 65,
+      "csv": "negotiation_csvs/Akira__20250423__6e5831f79f08.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250331",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/Akira__20250331__f41d98e1e250.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250330",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/Akira__20250330__ea99e35e0712.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250329",
+      "status": "ok",
+      "messages": 24,
+      "csv": "negotiation_csvs/Akira__20250329__5b212105b5dc.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250326",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/Akira__20250326__78b985582154.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250328",
+      "status": "ok",
+      "messages": 39,
+      "csv": "negotiation_csvs/Akira__20250328__a758b53f41c6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250312",
+      "status": "ok",
+      "messages": 20,
+      "csv": "negotiation_csvs/Akira__20250312__9a27f01fff15.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250321",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Akira__20250321__674d51e48d1e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250310",
+      "status": "ok",
+      "messages": 24,
+      "csv": "negotiation_csvs/Akira__20250310__e16341320bba.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250313",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/Akira__20250313__07eeeb92c9ac.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250306",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Akira__20250306__05d157624b13.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250217",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/Akira__20250217__c10b50c08fd8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250227",
+      "status": "ok",
+      "messages": 56,
+      "csv": "negotiation_csvs/Akira__20250227__076039dbdd1c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250222",
+      "status": "ok",
+      "messages": 72,
+      "csv": "negotiation_csvs/Akira__20250222__a228f06c1b04.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250216",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Akira__20250216__77bdf1e26793.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250121",
+      "status": "ok",
+      "messages": 26,
+      "csv": "negotiation_csvs/Akira__20250121__297e171ed32f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250125",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Akira__20250125__52640e592659.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250120",
+      "status": "ok",
+      "messages": 7,
+      "csv": "negotiation_csvs/Akira__20250120__fd1bb0d5bb68.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250117",
+      "status": "ok",
+      "messages": 70,
+      "csv": "negotiation_csvs/Akira__20250117__e29f773bf382.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250104",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/Akira__20250104__f3d5ba749214.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250112",
+      "status": "ok",
+      "messages": 44,
+      "csv": "negotiation_csvs/Akira__20250112__a79647fdfe29.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250108",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Akira__20250108__93563023c774.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250110",
+      "status": "ok",
+      "messages": 7,
+      "csv": "negotiation_csvs/Akira__20250110__b219ecd262d5.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240723",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/Akira__20240723__2ad3aaf42124.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240803",
+      "status": "ok",
+      "messages": 34,
+      "csv": "negotiation_csvs/Akira__20240803__ecf2db04d804.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240719",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/Akira__20240719__eb11e2f2830e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240718",
+      "status": "ok",
+      "messages": 105,
+      "csv": "negotiation_csvs/Akira__20240718__8de069734930.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240618",
+      "status": "ok",
+      "messages": 53,
+      "csv": "negotiation_csvs/Akira__20240618__0549ee4aa412.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240620",
+      "status": "ok",
+      "messages": 7,
+      "csv": "negotiation_csvs/Akira__20240620__5b1a38851040.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240611",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/Akira__20240611__c7bb59cc0354.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240531",
+      "status": "ok",
+      "messages": 55,
+      "csv": "negotiation_csvs/Akira__20240531__14a9ae0db832.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240424",
+      "status": "ok",
+      "messages": 70,
+      "csv": "negotiation_csvs/Akira__20240424__42db903b0602.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240509",
+      "status": "ok",
+      "messages": 170,
+      "csv": "negotiation_csvs/Akira__20240509__7b638a32c8a8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240410",
+      "status": "ok",
+      "messages": 16,
+      "csv": "negotiation_csvs/Akira__20240410__00b3bcf0e1df.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240317",
+      "status": "ok",
+      "messages": 8,
+      "csv": "negotiation_csvs/Akira__20240317__eae7876272ef.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240329",
+      "status": "ok",
+      "messages": 65,
+      "csv": "negotiation_csvs/Akira__20240329__7a8a46f7547e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240201",
+      "status": "ok",
+      "messages": 40,
+      "csv": "negotiation_csvs/Akira__20240201__3d34339061d2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240301",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/Akira__20240301__10631ad8437e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240131",
+      "status": "ok",
+      "messages": 75,
+      "csv": "negotiation_csvs/Akira__20240131__7859d27308fc.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240129",
+      "status": "ok",
+      "messages": 70,
+      "csv": "negotiation_csvs/Akira__20240129__e0b8ef50eea8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20231227",
+      "status": "ok",
+      "messages": 74,
+      "csv": "negotiation_csvs/Akira__20231227__802404e3a162.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20231217",
+      "status": "ok",
+      "messages": 67,
+      "csv": "negotiation_csvs/Akira__20231217__fd3515d71357.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20240127",
+      "status": "ok",
+      "messages": 41,
+      "csv": "negotiation_csvs/Akira__20240127__c6e66640e84b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20231112",
+      "status": "ok",
+      "messages": 58,
+      "csv": "negotiation_csvs/Akira__20231112__5245162bbe3f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20231115",
+      "status": "ok",
+      "messages": 81,
+      "csv": "negotiation_csvs/Akira__20231115__d096bac3ee6b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230929",
+      "status": "ok",
+      "messages": 58,
+      "csv": "negotiation_csvs/Akira__20230929__87c6cca7216a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20231209",
+      "status": "ok",
+      "messages": 112,
+      "csv": "negotiation_csvs/Akira__20231209__0209d90c83ad.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230728",
+      "status": "ok",
+      "messages": 5,
+      "csv": "negotiation_csvs/Akira__20230728__14578fc1b8c2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230722",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Akira__20230722__52c199d54d1a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230815",
+      "status": "ok",
+      "messages": 84,
+      "csv": "negotiation_csvs/Akira__20230815__e3114c797f41.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230727",
+      "status": "ok",
+      "messages": 72,
+      "csv": "negotiation_csvs/Akira__20230727__181178eba777.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230719",
+      "status": "ok",
+      "messages": 4,
+      "csv": "negotiation_csvs/Akira__20230719__88dfa250aae7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230707",
+      "status": "ok",
+      "messages": 37,
+      "csv": "negotiation_csvs/Akira__20230707__ffc7e0df7bca.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230628",
+      "status": "ok",
+      "messages": 5,
+      "csv": "negotiation_csvs/Akira__20230628__b8f9a9c68eb7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230616",
+      "status": "ok",
+      "messages": 80,
+      "csv": "negotiation_csvs/Akira__20230616__c5106e693170.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230606",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/Akira__20230606__ed3b0ca5aca7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20230529",
+      "status": "ok",
+      "messages": 7,
+      "csv": "negotiation_csvs/Akira__20230529__52fbf78d65dc.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/20250425b",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/Akira__20250425b__b7cf16c00c9e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Akira/4315806209",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Akira__4315806209__ed14c4fdfe12.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Alp-001/ALP-001",
+      "status": "ok",
+      "messages": 7,
+      "csv": "negotiation_csvs/Alp-001__ALP-001__485ecdebe62c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210518_2",
+      "status": "ok",
+      "messages": 24,
+      "csv": "negotiation_csvs/Avaddon__20210518_2__b9f21e85263c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210518",
+      "status": "ok",
+      "messages": 17,
+      "csv": "negotiation_csvs/Avaddon__20210518__3bde230f3604.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210512",
+      "status": "ok",
+      "messages": 35,
+      "csv": "negotiation_csvs/Avaddon__20210512__274a8191ee0a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210518_3",
+      "status": "ok",
+      "messages": 103,
+      "csv": "negotiation_csvs/Avaddon__20210518_3__8d7d7853cbbd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210112",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Avaddon__20210112__9bbfdbe6c241.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210430",
+      "status": "ok",
+      "messages": 103,
+      "csv": "negotiation_csvs/Avaddon__20210430__327867d1b122.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avaddon/20210324",
+      "status": "ok",
+      "messages": 73,
+      "csv": "negotiation_csvs/Avaddon__20210324__ae6276bbf475.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Avos/20210903",
+      "status": "ok",
+      "messages": 86,
+      "csv": "negotiation_csvs/Avos__20210903__9749dc6cbb44.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Babuk/20210203",
+      "status": "ok",
+      "messages": 106,
+      "csv": "negotiation_csvs/Babuk__20210203__e42108aec3fb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Babuk/20210428",
+      "status": "ok",
+      "messages": 44,
+      "csv": "negotiation_csvs/Babuk__20210428__3c1f57285c3c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackBasta/20240814",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/BlackBasta__20240814__070750c86bd6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackBasta/20230501",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/BlackBasta__20230501__4588a6ecfce1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackBasta/20230410",
+      "status": "ok",
+      "messages": 57,
+      "csv": "negotiation_csvs/BlackBasta__20230410__d49f56a2f45b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackBasta/20221011",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/BlackBasta__20221011__891967f9b5bd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackBasta/20221229",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/BlackBasta__20221229__644135a9aac0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Cloak/20230802",
+      "status": "ok",
+      "messages": 54,
+      "csv": "negotiation_csvs/Cloak__20230802__4219b75849a1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Cloak/20230802-2",
+      "status": "ok",
+      "messages": 66,
+      "csv": "negotiation_csvs/Cloak__20230802-2__cbe82a757fd6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackMatter/20210907",
+      "status": "ok",
+      "messages": 77,
+      "csv": "negotiation_csvs/BlackMatter__20210907__731661c4b7fb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/BlackMatter/20210829",
+      "status": "ok",
+      "messages": 44,
+      "csv": "negotiation_csvs/BlackMatter__20210829__bdef7b594f18.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20211108",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/Conti__20211108__d3521cb5c72b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20211217",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/Conti__20211217__e972d95357df.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20211205",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/Conti__20211205__6b6701b768e9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20211112",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/Conti__20211112__cd6c4a7fa0ee.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210923",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Conti__20210923__319d36c4b2a9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210820",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/Conti__20210820__f4c583bf3cf0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210904",
+      "status": "ok",
+      "messages": 17,
+      "csv": "negotiation_csvs/Conti__20210904__43d3ca950a1c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210902",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/Conti__20210902__b8950f790865.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210812",
+      "status": "ok",
+      "messages": 46,
+      "csv": "negotiation_csvs/Conti__20210812__9e3e0a0acbf8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210805",
+      "status": "ok",
+      "messages": 47,
+      "csv": "negotiation_csvs/Conti__20210805__4813b8a5ee8d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210708",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Conti__20210708__1c5fa2eb6e0c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210715",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Conti__20210715__eefcf318aebb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210611",
+      "status": "ok",
+      "messages": 48,
+      "csv": "negotiation_csvs/Conti__20210611__e14e98e88a94.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210628",
+      "status": "ok",
+      "messages": 34,
+      "csv": "negotiation_csvs/Conti__20210628__791f8ec025a6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210602",
+      "status": "ok",
+      "messages": 81,
+      "csv": "negotiation_csvs/Conti__20210602__8065a629629c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210107",
+      "status": "ok",
+      "messages": 139,
+      "csv": "negotiation_csvs/Conti__20210107__0b0643de59ee.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210520",
+      "status": "ok",
+      "messages": 101,
+      "csv": "negotiation_csvs/Conti__20210520__6a5b9cc9fb20.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210517",
+      "status": "ok",
+      "messages": 56,
+      "csv": "negotiation_csvs/Conti__20210517__5a552fcaa9e3.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210517_b",
+      "status": "ok",
+      "messages": 69,
+      "csv": "negotiation_csvs/Conti__20210517_b__e034c2293845.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210513",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/Conti__20210513__22d2eeb45b6d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210428",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/Conti__20210428__a9c8d091b80c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210426",
+      "status": "ok",
+      "messages": 12,
+      "csv": "negotiation_csvs/Conti__20210426__1533ab472d71.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210316",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/Conti__20210316__37e33333a252.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210315",
+      "status": "ok",
+      "messages": 49,
+      "csv": "negotiation_csvs/Conti__20210315__981887c61bb9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210305",
+      "status": "ok",
+      "messages": 45,
+      "csv": "negotiation_csvs/Conti__20210305__3fa5fe041adf.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20201121",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/Conti__20201121__e055986257c5.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20201019",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Conti__20201019__47184db33a91.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20201017",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/Conti__20201017__0fc4b577ced5.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20201109",
+      "status": "ok",
+      "messages": 255,
+      "csv": "negotiation_csvs/Conti__20201109__8989080fb355.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Darkside/20210418",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Darkside__20210418__a182b8aab3b1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Darkside/20210413",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/Darkside__20210413__a2fff666c4a7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Darkside/20210215",
+      "status": "ok",
+      "messages": 24,
+      "csv": "negotiation_csvs/Darkside__20210215__c2e89fc38159.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Darkside/20201115",
+      "status": "ok",
+      "messages": 243,
+      "csv": "negotiation_csvs/Darkside__20201115__763417b8cdb7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Darkside/20200811",
+      "status": "ok",
+      "messages": 85,
+      "csv": "negotiation_csvs/Darkside__20200811__5158809e03cb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/43137bdf-5980-4ccc-b144-c703ea9169bd",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Dragonforce__43137bdf-5980-4ccc-b144-c703ea9169bd__6437bc5b3efe.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/c463def4-0ffb-4045-baad-cb1f75c26876",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/Dragonforce__c463def4-0ffb-4045-baad-cb1f75c26876__f961253e1373.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/5d08a3c9-5764-413f-bb52-44f502c0a144",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Dragonforce__5d08a3c9-5764-413f-bb52-44f502c0a144__8288ef95e920.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/1e4a1771-ca8e-498c-a961-6e20180c091d",
+      "status": "ok",
+      "messages": 55,
+      "csv": "negotiation_csvs/Dragonforce__1e4a1771-ca8e-498c-a961-6e20180c091d__f82f2fd13e48.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/37f2506e-c73b-45df-a5d9-fcd09873cf4b",
+      "status": "ok",
+      "messages": 91,
+      "csv": "negotiation_csvs/Dragonforce__37f2506e-c73b-45df-a5d9-fcd09873cf4b__9bceff1c022e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/d6ddd9b2-6d7d-41db-ade4-497fc20f893f",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Dragonforce__d6ddd9b2-6d7d-41db-ade4-497fc20f893f__ba91cbb91a77.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/EBC73E7776180E1F",
+      "status": "ok",
+      "messages": 23,
+      "csv": "negotiation_csvs/Dragonforce__EBC73E7776180E1F__3a551bd4f84d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/D6DDD9B26D7D41DB",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Dragonforce__D6DDD9B26D7D41DB__301067696f63.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/ab0404e0-4951-4b50-b659-b817fa2bc3de",
+      "status": "ok",
+      "messages": 28,
+      "csv": "negotiation_csvs/Dragonforce__ab0404e0-4951-4b50-b659-b817fa2bc3de__ec25491f029e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/AB0404E049514B50",
+      "status": "ok",
+      "messages": 28,
+      "csv": "negotiation_csvs/Dragonforce__AB0404E049514B50__b27d5188ba2c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/47862256EB69DC71",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Dragonforce__47862256EB69DC71__29d07b9a7ecd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/b8e14e1a-548f-4eec-bd6e-a590126e57c9",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/Dragonforce__b8e14e1a-548f-4eec-bd6e-a590126e57c9__5a9757cb5923.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/7a313d13-eb6b-4e58-b774-34f1c657f22d",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/Dragonforce__7a313d13-eb6b-4e58-b774-34f1c657f22d__c2c38e5b8e82.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/7A313D13EB6B4E58",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/Dragonforce__7A313D13EB6B4E58__12cfa1bc620f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/05f724f8-906e-4739-8177-815852cc2c3f",
+      "status": "ok",
+      "messages": 29,
+      "csv": "negotiation_csvs/Dragonforce__05f724f8-906e-4739-8177-815852cc2c3f__e9fb5ff78cba.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/058f4b92-ae99-45c7-bf35-5d2d6754b3de",
+      "status": "ok",
+      "messages": 19,
+      "csv": "negotiation_csvs/Dragonforce__058f4b92-ae99-45c7-bf35-5d2d6754b3de__1f2f21da2a3e.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/b15ffbab-08b6-41cd-bb4e-1237a8204c7b",
+      "status": "ok",
+      "messages": 1,
+      "csv": "negotiation_csvs/Dragonforce__b15ffbab-08b6-41cd-bb4e-1237a8204c7b__c6cee6f2eae2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/9370c522-cc0b-4a53-8d97-5f2f7b1b99ea",
+      "status": "ok",
+      "messages": 79,
+      "csv": "negotiation_csvs/Dragonforce__9370c522-cc0b-4a53-8d97-5f2f7b1b99ea__a656f084ec7a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/89716D29D2CEE36F",
+      "status": "ok",
+      "messages": 23,
+      "csv": "negotiation_csvs/Dragonforce__89716D29D2CEE36F__61e491b2a173.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/de73353b-97c8-493b-bf57-52793f345b02",
+      "status": "ok",
+      "messages": 23,
+      "csv": "negotiation_csvs/Dragonforce__de73353b-97c8-493b-bf57-52793f345b02__80118c43efe2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/dd3fba24-8aca-4b9d-b33e-7d2f37157dc0",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Dragonforce__dd3fba24-8aca-4b9d-b33e-7d2f37157dc0__4ce79015f455.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/Dragonforce__BD004D632D87DBA0__0b566506aca6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/FDA8141B6DD392E3",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Dragonforce__FDA8141B6DD392E3__8a4a3c2b1774.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/c2f8b989-3ca8-46b6-856b-298fb4bc8771",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Dragonforce__c2f8b989-3ca8-46b6-856b-298fb4bc8771__428aa267ddf4.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/d1c44cb7-efca-44ae-8d00-0fe4f0c590bd",
+      "status": "ok",
+      "messages": 36,
+      "csv": "negotiation_csvs/Dragonforce__d1c44cb7-efca-44ae-8d00-0fe4f0c590bd__c65493de6a6b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/C8479B30418B331E",
+      "status": "ok",
+      "messages": 4,
+      "csv": "negotiation_csvs/Dragonforce__C8479B30418B331E__cdf3d3f093b3.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/61f8563d-b42b-4b79-b12c-e4d4ad39b33a",
+      "status": "ok",
+      "messages": 11,
+      "csv": "negotiation_csvs/Dragonforce__61f8563d-b42b-4b79-b12c-e4d4ad39b33a__8959a0a03eb2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/4c4d3f84-fb54-4145-855d-f093849afea8",
+      "status": "ok",
+      "messages": 71,
+      "csv": "negotiation_csvs/Dragonforce__4c4d3f84-fb54-4145-855d-f093849afea8__ca1374c56256.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/C7CD31EAAF9DE9AC",
+      "status": "ok",
+      "messages": 71,
+      "csv": "negotiation_csvs/Dragonforce__C7CD31EAAF9DE9AC__908b1dc2ab74.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/C2A3C7249797F5ED",
+      "status": "ok",
+      "messages": 66,
+      "csv": "negotiation_csvs/Dragonforce__C2A3C7249797F5ED__0938d97d40ca.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/709b7dae-c020-456a-a736-bf3b4ffa91fd",
+      "status": "ok",
+      "messages": 66,
+      "csv": "negotiation_csvs/Dragonforce__709b7dae-c020-456a-a736-bf3b4ffa91fd__08396fb41444.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/d284b10b-fe54-4839-b51b-7188d80469a2",
+      "status": "ok",
+      "messages": 30,
+      "csv": "negotiation_csvs/Dragonforce__d284b10b-fe54-4839-b51b-7188d80469a2__51ab81262a55.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/C42CDF65B97D0E92",
+      "status": "ok",
+      "messages": 30,
+      "csv": "negotiation_csvs/Dragonforce__C42CDF65B97D0E92__616b3125fb6f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Dragonforce/29BBE03074FDBB8D",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/Dragonforce__29BBE03074FDBB8D__7e388d360a42.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20241119",
+      "status": "ok",
+      "messages": 3,
+      "csv": "negotiation_csvs/fog__20241119__0a514c0d6f35.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20240927",
+      "status": "ok",
+      "messages": 60,
+      "csv": "negotiation_csvs/fog__20240927__de63bead1a46.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20240910",
+      "status": "ok",
+      "messages": 26,
+      "csv": "negotiation_csvs/fog__20240910__45538fe35e08.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20240830",
+      "status": "ok",
+      "messages": 73,
+      "csv": "negotiation_csvs/fog__20240830__3d06e26968ab.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20240729",
+      "status": "ok",
+      "messages": 144,
+      "csv": "negotiation_csvs/fog__20240729__f0a4f7c52d9b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/fog/20240517",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/fog__20240517__b50cfaf9a5e4.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211220",
+      "status": "ok",
+      "messages": 24,
+      "csv": "negotiation_csvs/Hive__20211220__601bf5d5cc39.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211213",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/Hive__20211213__0348e50d41aa.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211126",
+      "status": "ok",
+      "messages": 4,
+      "csv": "negotiation_csvs/Hive__20211126__8bd277627231.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211113",
+      "status": "ok",
+      "messages": 136,
+      "csv": "negotiation_csvs/Hive__20211113__85a7601f0378.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211102",
+      "status": "ok",
+      "messages": 58,
+      "csv": "negotiation_csvs/Hive__20211102__1bf33e2d7854.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211026",
+      "status": "ok",
+      "messages": 46,
+      "csv": "negotiation_csvs/Hive__20211026__5d3472d8dde3.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211004",
+      "status": "ok",
+      "messages": 70,
+      "csv": "negotiation_csvs/Hive__20211004__b4fea7e94268.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hive/20211005",
+      "status": "ok",
+      "messages": 19,
+      "csv": "negotiation_csvs/Hive__20211005__7a9aba767bf0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Hunters%20International/20240510",
+      "status": "ok",
+      "messages": 29,
+      "csv": "negotiation_csvs/Hunters_International__20240510__dff279ab3259.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/kairos/20250519",
+      "status": "ok",
+      "messages": 41,
+      "csv": "negotiation_csvs/kairos__20250519__631dd8fd00bb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/Leaked2025-ClientID-154",
+      "status": "ok",
+      "messages": 137,
+      "csv": "negotiation_csvs/lockbit3.0__Leaked2025-ClientID-154__947d76c54dd6.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/Leaked2025-ClientID-206",
+      "status": "ok",
+      "messages": 4,
+      "csv": "negotiation_csvs/lockbit3.0__Leaked2025-ClientID-206__e9258879090f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/Leaked2025-ClientID-124",
+      "status": "ok",
+      "messages": 55,
+      "csv": "negotiation_csvs/lockbit3.0__Leaked2025-ClientID-124__adba040e0c74.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/Leaked2025-ClientID-36",
+      "status": "ok",
+      "messages": 55,
+      "csv": "negotiation_csvs/lockbit3.0__Leaked2025-ClientID-36__6525b12e6b38.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/brownintegratedlogistics_com",
+      "status": "ok",
+      "messages": 30,
+      "csv": "negotiation_csvs/lockbit3.0__brownintegratedlogistics_com__f38178aa5c7a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/msim_de",
+      "status": "ok",
+      "messages": 54,
+      "csv": "negotiation_csvs/lockbit3.0__msim_de__61a2381ce68f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/des-ae_com",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/lockbit3.0__des-ae_com__f1e6064f2bfd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/sirva_com",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/lockbit3.0__sirva_com__71959fd4140a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/hgc_com_hk",
+      "status": "ok",
+      "messages": 8,
+      "csv": "negotiation_csvs/lockbit3.0__hgc_com_hk__5115230c60aa.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/bankbsi_co_id",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/lockbit3.0__bankbsi_co_id__fd25fec0ea51.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/psenergy_com",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/lockbit3.0__psenergy_com__ab3fff0988f8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/gocontec_com",
+      "status": "ok",
+      "messages": 52,
+      "csv": "negotiation_csvs/lockbit3.0__gocontec_com__1fa72e97b786.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/kaycan_com",
+      "status": "ok",
+      "messages": 94,
+      "csv": "negotiation_csvs/lockbit3.0__kaycan_com__a9d0b3796c4c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/plasticproductsco_com",
+      "status": "ok",
+      "messages": 28,
+      "csv": "negotiation_csvs/lockbit3.0__plasticproductsco_com__9b448c3a3cd0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/omscomponents_it",
+      "status": "ok",
+      "messages": 66,
+      "csv": "negotiation_csvs/lockbit3.0__omscomponents_it__3c2142095421.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/wcinet_com",
+      "status": "ok",
+      "messages": 34,
+      "csv": "negotiation_csvs/lockbit3.0__wcinet_com__43219e3f59d7.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/aguasdoporto_pt",
+      "status": "ok",
+      "messages": 3,
+      "csv": "negotiation_csvs/lockbit3.0__aguasdoporto_pt__a2518c3b1d96.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/newbridge_org",
+      "status": "ok",
+      "messages": 70,
+      "csv": "negotiation_csvs/lockbit3.0__newbridge_org__5f8be724a04f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/myerspower_com",
+      "status": "ok",
+      "messages": 99,
+      "csv": "negotiation_csvs/lockbit3.0__myerspower_com__66f2d6fe3d63.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de",
+      "status": "ok",
+      "messages": 20,
+      "csv": "negotiation_csvs/lockbit3.0__qsi-q3_de__49d4e2c2ca32.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/guardiananalytics_com",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/lockbit3.0__guardiananalytics_com__101e69dd9ddb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/nicklaus_com",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/lockbit3.0__nicklaus_com__1ee31710aa8d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/royalmailgroup_com",
+      "status": "ok",
+      "messages": 103,
+      "csv": "negotiation_csvs/lockbit3.0__royalmailgroup_com__03a71d9dcf6d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/millennia_pro",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/lockbit3.0__millennia_pro__94cb52fa4edc.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/datair_com",
+      "status": "ok",
+      "messages": 106,
+      "csv": "negotiation_csvs/lockbit3.0__datair_com__50191e0f1ca1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/colonialgeneral_com",
+      "status": "ok",
+      "messages": 25,
+      "csv": "negotiation_csvs/lockbit3.0__colonialgeneral_com__bf8b1a73fd14.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/continental_com",
+      "status": "ok",
+      "messages": 37,
+      "csv": "negotiation_csvs/lockbit3.0__continental_com__cde108be939b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/vitalityhp_net",
+      "status": "ok",
+      "messages": 73,
+      "csv": "negotiation_csvs/lockbit3.0__vitalityhp_net__2ada0384cd8d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/bakkerheftrucks_com",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/lockbit3.0__bakkerheftrucks_com__47285f9e8cdb.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/software-line_it",
+      "status": "ok",
+      "messages": 30,
+      "csv": "negotiation_csvs/lockbit3.0__software-line_it__f189b644275c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/gavresorts_com_br",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/lockbit3.0__gavresorts_com_br__a2487156ed84.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/tapcocu_org",
+      "status": "ok",
+      "messages": 215,
+      "csv": "negotiation_csvs/lockbit3.0__tapcocu_org__a71694b2244d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/chsf_fr",
+      "status": "ok",
+      "messages": 42,
+      "csv": "negotiation_csvs/lockbit3.0__chsf_fr__4ee9894f5efa.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/porcelanosa-usa_com",
+      "status": "ok",
+      "messages": 8,
+      "csv": "negotiation_csvs/lockbit3.0__porcelanosa-usa_com__2391668592ab.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/vsainc_com",
+      "status": "ok",
+      "messages": 21,
+      "csv": "negotiation_csvs/lockbit3.0__vsainc_com__edd03adaa27b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/samyang_com",
+      "status": "ok",
+      "messages": 237,
+      "csv": "negotiation_csvs/lockbit3.0__samyang_com__ecb438f3358a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210219",
+      "status": "ok",
+      "messages": 12,
+      "csv": "negotiation_csvs/Conti__20210219__bd20cf2453a9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/okcu_edu",
+      "status": "ok",
+      "messages": 56,
+      "csv": "negotiation_csvs/lockbit3.0__okcu_edu__1eb1fc742687.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/emunworks_com",
+      "status": "ok",
+      "messages": 8,
+      "csv": "negotiation_csvs/lockbit3.0__emunworks_com__7060b4ded2c9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/preflooring_com",
+      "status": "ok",
+      "messages": 17,
+      "csv": "negotiation_csvs/lockbit3.0__preflooring_com__ec87bcb6ee10.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/scohil_com",
+      "status": "ok",
+      "messages": 29,
+      "csv": "negotiation_csvs/lockbit3.0__scohil_com__0725cbd30863.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/lapostemobile_fr",
+      "status": "ok",
+      "messages": 93,
+      "csv": "negotiation_csvs/lockbit3.0__lapostemobile_fr__f22d8170e7bd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/entrust_com",
+      "status": "ok",
+      "messages": 29,
+      "csv": "negotiation_csvs/lockbit3.0__entrust_com__aec163aa3c35.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/wabteccorp_com",
+      "status": "ok",
+      "messages": 39,
+      "csv": "negotiation_csvs/lockbit3.0__wabteccorp_com__32bed40b1a21.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/genusplc_com",
+      "status": "ok",
+      "messages": 34,
+      "csv": "negotiation_csvs/lockbit3.0__genusplc_com__388b330be2c9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Mallox/20230530",
+      "status": "ok",
+      "messages": 17,
+      "csv": "negotiation_csvs/Mallox__20230530__cca3bb143a1a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Mallox/20230529",
+      "status": "ok",
+      "messages": 29,
+      "csv": "negotiation_csvs/Mallox__20230529__8541051a4b63.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Mallox/20230427",
+      "status": "ok",
+      "messages": 62,
+      "csv": "negotiation_csvs/Mallox__20230427__dba5be8ba42c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/mount-locker/20201016",
+      "status": "ok",
+      "messages": 60,
+      "csv": "negotiation_csvs/mount-locker__20201016__8c0f87a0412b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20260203",
+      "status": "ok",
+      "messages": 45,
+      "csv": "negotiation_csvs/Nightspire__20260203__a0799fcb354d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20260225",
+      "status": "ok",
+      "messages": 48,
+      "csv": "negotiation_csvs/Nightspire__20260225__82202a4aa0cd.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20260217",
+      "status": "ok",
+      "messages": 31,
+      "csv": "negotiation_csvs/Nightspire__20260217__a5d7a8b48d65.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20260127",
+      "status": "ok",
+      "messages": 62,
+      "csv": "negotiation_csvs/Nightspire__20260127__2e2d9a627c65.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20251218",
+      "status": "ok",
+      "messages": 84,
+      "csv": "negotiation_csvs/Nightspire__20251218__bcf9d16c6b8a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20250428",
+      "status": "ok",
+      "messages": 59,
+      "csv": "negotiation_csvs/Nightspire__20250428__2dc44f60fb6d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20250418",
+      "status": "ok",
+      "messages": 38,
+      "csv": "negotiation_csvs/Nightspire__20250418__ec48baeddf98.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20251218084018",
+      "status": "ok",
+      "messages": 84,
+      "csv": "negotiation_csvs/Nightspire__20251218084018__2e3c0cd467d2.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/202504280528742",
+      "status": "ok",
+      "messages": 59,
+      "csv": "negotiation_csvs/Nightspire__202504280528742__779af2dc4422.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20250418091538",
+      "status": "ok",
+      "messages": 38,
+      "csv": "negotiation_csvs/Nightspire__20250418091538__3a585ba62bc8.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Nightspire/20260127091528",
+      "status": "ok",
+      "messages": 62,
+      "csv": "negotiation_csvs/Nightspire__20260127091528__ee69a40a20a3.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/NoEscape/20230912",
+      "status": "ok",
+      "messages": 4,
+      "csv": "negotiation_csvs/NoEscape__20230912__e29aa236799d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/NoEscape/20230911",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/NoEscape__20230911__608ca297312b.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/nova/QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ",
+      "status": "ok",
+      "messages": 31,
+      "csv": "negotiation_csvs/nova__QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ__7e679b720aa5.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/nova/Q1lNQSBTWVNURU1TQG5vdmE",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/nova__Q1lNQSBTWVNURU1TQG5vdmE__aefb3dde4887.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/orova/20260824",
+      "status": "ok",
+      "messages": 3,
+      "csv": "negotiation_csvs/orova__20260824__69aed5676a9f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Pear/20250720",
+      "status": "ok",
+      "messages": 42,
+      "csv": "negotiation_csvs/Pear__20250720__6302d20ffbb9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Qilin/20250203",
+      "status": "ok",
+      "messages": 36,
+      "csv": "negotiation_csvs/Qilin__20250203__33bd2e76fdec.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Qilin/20240429",
+      "status": "ok",
+      "messages": 3,
+      "csv": "negotiation_csvs/Qilin__20240429__af7e70f947b4.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/RansomHub/20240810",
+      "status": "ok",
+      "messages": 1,
+      "csv": "negotiation_csvs/RansomHub__20240810__efc25f2a3d77.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Ranzy/20210223",
+      "status": "ok",
+      "messages": 20,
+      "csv": "negotiation_csvs/Ranzy__20210223__d98d6f5b664c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Ranzy/20201015",
+      "status": "ok",
+      "messages": 36,
+      "csv": "negotiation_csvs/Ranzy__20201015__11f882dce509.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210709",
+      "status": "ok",
+      "messages": 1,
+      "csv": "negotiation_csvs/REvil__20210709__085cad89b379.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210708",
+      "status": "ok",
+      "messages": 28,
+      "csv": "negotiation_csvs/REvil__20210708__3dd59d218d81.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210630",
+      "status": "ok",
+      "messages": 42,
+      "csv": "negotiation_csvs/REvil__20210630__8e99cd840a57.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210628",
+      "status": "ok",
+      "messages": 39,
+      "csv": "negotiation_csvs/REvil__20210628__7dd15c7c2afa.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210622",
+      "status": "ok",
+      "messages": 52,
+      "csv": "negotiation_csvs/REvil__20210622__679e64e84007.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210617",
+      "status": "ok",
+      "messages": 67,
+      "csv": "negotiation_csvs/REvil__20210617__8fa84774bf5d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210616",
+      "status": "ok",
+      "messages": 31,
+      "csv": "negotiation_csvs/REvil__20210616__d7850cd7df74.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210613",
+      "status": "ok",
+      "messages": 132,
+      "csv": "negotiation_csvs/REvil__20210613__fb1d246c328a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210609",
+      "status": "ok",
+      "messages": 58,
+      "csv": "negotiation_csvs/REvil__20210609__454079e5a9d0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210604",
+      "status": "ok",
+      "messages": 10,
+      "csv": "negotiation_csvs/REvil__20210604__2c322b8a50ee.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210603",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/REvil__20210603__37f691874018.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210413",
+      "status": "ok",
+      "messages": 156,
+      "csv": "negotiation_csvs/REvil__20210413__a15b6edecb1d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210407",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/REvil__20210407__27a2f0fcb70c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210401",
+      "status": "ok",
+      "messages": 78,
+      "csv": "negotiation_csvs/REvil__20210401__75afb26d106d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210331",
+      "status": "ok",
+      "messages": 23,
+      "csv": "negotiation_csvs/REvil__20210331__f07f85b8bea1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210329",
+      "status": "ok",
+      "messages": 43,
+      "csv": "negotiation_csvs/REvil__20210329__b5d2b606733d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20210320",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/REvil__20210320__b63798db5b07.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20201126",
+      "status": "ok",
+      "messages": 79,
+      "csv": "negotiation_csvs/REvil__20201126__1dc90dcc1464.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20201104",
+      "status": "ok",
+      "messages": 63,
+      "csv": "negotiation_csvs/REvil__20201104__0cd58a6a210d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/REvil/20201014",
+      "status": "ok",
+      "messages": 72,
+      "csv": "negotiation_csvs/REvil__20201014__85ec57e058a9.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/RunSomeWares/20250411",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/RunSomeWares__20250411__59cc84fd4b7a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/settra/20260820",
+      "status": "ok",
+      "messages": 23,
+      "csv": "negotiation_csvs/settra__20260820__9e10b5b090c0.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/SilentRansomGroup/20260318",
+      "status": "ok",
+      "messages": 27,
+      "csv": "negotiation_csvs/SilentRansomGroup__20260318__69ce89ac6aaa.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/SilentRansomGroup/20260219",
+      "status": "ok",
+      "messages": 58,
+      "csv": "negotiation_csvs/SilentRansomGroup__20260219__5c8463a2da1c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0008",
+      "status": "ok",
+      "messages": 13,
+      "csv": "negotiation_csvs/trinity__0008__83601ca77e58.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0011",
+      "status": "ok",
+      "messages": 50,
+      "csv": "negotiation_csvs/trinity__0011__8639df28b37f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0002",
+      "status": "ok",
+      "messages": 52,
+      "csv": "negotiation_csvs/trinity__0002__2e68c04fa05d.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0009",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/trinity__0009__ee03247891ad.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0007",
+      "status": "ok",
+      "messages": 36,
+      "csv": "negotiation_csvs/trinity__0007__ae7851038511.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0004",
+      "status": "ok",
+      "messages": 170,
+      "csv": "negotiation_csvs/trinity__0004__c3776ce0987a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0014",
+      "status": "ok",
+      "messages": 6,
+      "csv": "negotiation_csvs/trinity__0014__143d14b8468a.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0005",
+      "status": "ok",
+      "messages": 14,
+      "csv": "negotiation_csvs/trinity__0005__075c12d64a0c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0012",
+      "status": "ok",
+      "messages": 15,
+      "csv": "negotiation_csvs/trinity__0012__c6b507138a92.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0006",
+      "status": "ok",
+      "messages": 11,
+      "csv": "negotiation_csvs/trinity__0006__654e7bdae269.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0013",
+      "status": "ok",
+      "messages": 32,
+      "csv": "negotiation_csvs/trinity__0013__a08a8fd0f61f.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0003",
+      "status": "ok",
+      "messages": 298,
+      "csv": "negotiation_csvs/trinity__0003__4eee8a8cbe3c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0010",
+      "status": "ok",
+      "messages": 8,
+      "csv": "negotiation_csvs/trinity__0010__0552d4a5dcc5.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/trinity/0001",
+      "status": "ok",
+      "messages": 2,
+      "csv": "negotiation_csvs/trinity__0001__61d60f08df1c.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20210126",
+      "status": "ok",
+      "messages": 9,
+      "csv": "negotiation_csvs/Conti__20210126__ef0d3ae61ac1.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/Conti/20201230",
+      "status": "ok",
+      "messages": 146,
+      "csv": "negotiation_csvs/Conti__20201230__b73fae3a2022.csv"
+    },
+    {
+      "url": "https://www.ransomware.live/nego/lockbit3.0/**************************149576",
+      "status": "error",
+      "error": "HTTP Error 400: BAD REQUEST"
+    }
+  ]
+}

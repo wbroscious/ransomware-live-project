@@ -1,0 +1,68 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,1,victim,hello,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,2,victim,hello,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,3,gang,hello,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,4,victim,what do we have to do to acces our files ?,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,5,gang,Please say your network domain,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,6,victim,i sent you email to,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,7,gang,Yes I see,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,8,victim,what info do you need ?,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,9,gang,[redacted] ?,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,10,victim,idd,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,11,gang,your network?,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,12,victim,[redacted] is correct,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,13,gang,Price for decrypt 70000$ in bitcoin amount,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,14,victim,"ok, i'm talking with management",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,15,victim,is there any garantee tht we can decrypt all files ?,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,16,victim,i see the VHDX files are only 3GB and the were much bigger ..,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,17,gang,"We have been working
+ for several years and all our clients have received their key. You can 
+send us up to 10 files for the test decrypt, but these files should not 
+contain important information",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,18,victim,"ok, and my VHD files will decrypt as wel ? they were +1TB in size and now only 3GB",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,19,gang,Yes,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,20,gang,Inside the hard disk these files have normal size,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,21,victim,"In order to proceed,
+ my manager requires a due dilligence step that protects us from 
+liability, and that is to obtain proof that you have our sensitive files
+ before we can consider payment. For that reason, can you provide the 
+cleartext copy of the ""[redacted]_V10_13_8_GP.ZIP"" file located 
+in the ""C:\Users\Administrator\Downloads"" folder on one of the encrypted
+ servers.",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,22,gang,we don't loan out valuable files for testing for the test send 1-2 files (1-5 mb) not backup and database,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,23,gang,"If you don't pay, 
+we'll put your data on the leak sites.  
+https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion/
+companies/2148689972 ,and similar sites",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,24,victim,"In order to 
+negotiate a resolution, we would require proof of data posession, so we 
+have asked you for a file that does not contain sensitive information 
+(you can verify that in the file itself). We have so far not received 
+any evidence of you posessing cleartext copies of our data. Such 
+evidence allows me to talk to my manager, who will eventually decide on 
+the best course of action, as we have multiple alternatives.",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,25,gang,We can't provide this file to you.,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,26,victim,"Since we cannot show
+ our manager any proof of stolen data, we cannot argue such a high 
+ransom demand. We do have backups which are few weeks old, but I am 
+convinced that our manager would pay a smaller fee for decryption key in
+ order to have the latest data in a much faster way. They are willing to
+ offer you $10.000 for the decryption key.",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,27,gang,"We have already told
+ you the price. The only way you can reduce the final price is to pay 
+today and then we can think about a discount.",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,28,gang,"but 10000$ just a joke for us, you should understand it. We can make discount 10.000$ if you pay today",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,29,victim,"I will have to take 
+that offer to my manager. In the meantime, how can you provide proof of 
+having a working decryption key? Can we provide you with an encrypted 
+file and you decrypt it?",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,30,victim,"I will have to take 
+that offer to my manager. In the meantime, how can you provide proof of 
+having a working decryption key? Can we provide you with an encrypted 
+file and you decrypt it?",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,31,gang,"Yes, send file here https://dropmefiles.com/",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,32,gang,"Yes, send file here https://dropmefiles.com/",
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,33,victim,Hereby https://dropmefiles.com/[redacted],
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,34,gang,https://dropmefiles.com/[redacted],
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,35,gang,pass 123,
+https://www.ransomware.live/nego/trinity/0007,trinity,0007,36,gang,You don't use our discount offer. So the price is 70.000$ again. Tomorrow it will rise again.,

@@ -1,0 +1,15 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,1,victim,?,
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,2,gang,"Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,3,victim,"Hi, yes I have permission",
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,4,gang,List.7z // 96.9 KB,
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,5,gang,"These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,6,victim,what's your ask?,
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,7,gang,We will let you know soon. Do you want to test our decryption tool?,
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,8,gang,"We're willing to set a $1,100,000 price for ALL the services we offer.",
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,9,gang,Are you going to work with us?,
+https://www.ransomware.live/nego/Akira/20250108,Akira,20250108,10,gang,"You can find your company name in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion If you want this post to be removed, we have to agree on something.",

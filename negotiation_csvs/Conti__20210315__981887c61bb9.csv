@@ -1,0 +1,75 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,1,victim,Hello - We are here to discuss the situation as a smaller company we are trying to understand what you are asking in this case to get us our files back?,"3/15/2021, 4:54:28 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,2,gang,"hello
+please wait answer","3/15/2021, 5:02:49 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,3,gang,"As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.icu
+The recovery price is $1100000 (20 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.
+If we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.
+We strongly recommend to review our offer in a timely manner to avoid additional expenses from your side on security software and on building the new network from scratch.
+The example data pack will be provided, which will include part of the file list and some actual data you can review.","3/15/2021, 5:14:44 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,4,gang,"The total amount of data downloaded from your network is 835 GB.
+The 30% of the whole file listing is attached. You can choose any 2 files from the list and we will upload them as a proof.","3/15/2021, 5:16:17 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,5,gang,30percentlisting.txt [ 5.9MB ],"3/15/2021, 5:16:59 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,6,victim,[redacted]_ENCRYPTED.zip [ 675kB ],"3/16/2021, 5:16:39 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,7,victim,[redacted]-Finances.zip [ 211kB ],"3/16/2021, 5:16:50 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,8,victim,[redacted]-Dev.zip [ 128kB ],"3/16/2021, 5:16:58 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,9,victim,can you demonstrate decryption?,"3/16/2021, 5:17:02 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,10,gang,[redacted]_ENCRYPTED.zip [ 651kB ],"3/16/2021, 5:39:25 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,11,gang,Of course.,"3/16/2021, 5:39:58 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,12,victim,appreciated.,"3/17/2021, 2:27:57 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,13,victim,"could you give us these files: 
+~$Budget 2020-2021 COVID19-2 [redacted]-HSBC v1.1 FINAL FINAL.xlsx                       [165 Bytes]
+~$[redacted] 2021-2022.xlsx                                                          [165 Bytes]
+~$[redacted] 21-01-2021.xlsx                            [165 Bytes]","3/17/2021, 2:28:14 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,14,gang,Yes. Wlll upload soon.,"3/17/2021, 4:51:38 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,15,gang,"https://www.sendspace.com/file/[redacted]
+[redacted]
+https://www.sendspace.com/delete/[redacted]/[redacted]","3/17/2021, 5:35:48 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,16,victim,appreciate. We will download and review.,"3/17/2021, 5:50:08 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,17,victim,"We understand you are asking for 1.1Mil. This is not an amount we can consider as it is more than our annual revenue. You will find if you search us, that we went bankrupt 2 years ago and have been on the losing side since. We would like to discuss how to proceed, but we do not know where to start with this amount.","3/18/2021, 1:56:59 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,18,gang,We can provide you with 25% discount as a step forward.,"3/18/2021, 4:32:53 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,19,victim,Hi - We are trying to see what we can do but meanwhile can you send me any files from: 1. E:\mssql\data folder on a server called [redacted]-db? log files or something like that. Also on a server called [redacted] can you get me a file from c:\users\[redacted]\documents\[redacted]\exports please? thank you.,"3/19/2021, 2:00:25 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,20,gang,We are looking for those files. Will upload soon.,"3/20/2021, 8:01:14 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,21,gang,We can't find the files you requested by path. We need the exact file names to look for.,"3/20/2021, 1:14:04 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,22,victim,can you find a table in a database if we give you the table name?,"3/20/2021, 6:56:09 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,23,gang,"Well, yes, I suppose. But please specify the database name too.","3/21/2021, 12:23:34 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,24,victim,"can you see if you have these files: A) [redacted] server - ""TransfertsWeb7DerniersJours_20201220"" and ""TransfertsWeb7DerniersJours_20201213""; and B)  vRaym-DB - ""templog.ldf""","3/21/2021, 12:37:01 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,25,gang,"Yes. We have them. Although we have already provided two files of your choice that you have requested I can provide only parts of those files as a confirmation.
+StoreName_FromSomme de TotalQtySomme de TotalRetail
+[redacted]54717956.87
+StoreName_FromSomme de TotalQtySomme de TotalRetail
+[redacted]862923.85","3/22/2021, 12:16:37 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,26,gang,We have provided everything you asked by now. Now we are waiting for your decision. It's been a week already and we are almost past the deadline to we need your decision by tomorrow.,"3/22/2021, 8:20:02 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,27,victim,You have provided everything we asked.,"3/22/2021, 10:16:28 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,28,victim,It is appreciated. It is also used to build some trust in a situation like this.,"3/22/2021, 10:16:59 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,29,victim,We also used the time to see what we can raise in funds because even 800k is not an amount anything will give us.,"3/22/2021, 10:17:32 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,30,victim,I will respond tomorrow we are trying one other thing and then I will be able to say if and what we can offer.,"3/22/2021, 10:18:11 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,31,gang,"Ok, we are waiting for the news by tomorrow.","3/23/2021, 5:58:47 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,32,victim,Hi - we reviewed all the files. The data is not worth much. We are recovered so we do not need decryptors. We cannot pay what you are asking. We are on the verge of insolvency and this certainly does not help. I can pay you 50K to make this go away if you promise and provide assurance that you deleted all the data. This is as much as I am able to do without triggering law enforcement and the banks after me.,"3/23/2021, 2:10:38 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,33,gang,"50K is totally impossible. As you can find our from the open sources our ""average"" is more than a mil. Although we are ready to make a step forward towards you and go down to $450k (if the decryptor is not required, only for the data deletion). My team will not let me go even a dollar lower than $450k.","3/23/2021, 2:29:25 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,34,victim,"We cannot do that, we do not have that kind of funds available to give. I guess we cannot proceed because I cannot give you what you want and I do not have.","3/24/2021, 12:43:40 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,35,gang,Understandable. Too bad though. We will start auctioning your data to your competitors within next 48 hours.,"3/24/2021, 9:29:51 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,36,victim,"Let me know who is interested in buying this information, might be a potential buyer :) Like I said the price is far too high that I cannot budge more than +10k. Of course if you decide to access I promise not to tell the media that the amount but sounds like we are not even in the ball-park.","3/24/2021, 12:10:28 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,37,gang,That's just impossible in our enterprise.,"3/24/2021, 5:34:22 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,38,gang,Let me discuss with the team to reevaluate your abilities and I will get back to you.,"3/24/2021, 5:40:58 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,39,gang,"Well. Ok, we can make it 100k and finish this one on a private terms from both sides.","3/24/2021, 8:15:20 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,40,victim,"Hi - Ok, all agreed; 100k. Please send wallet","3/25/2021, 5:50:25 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,41,victim,"Hello - OK, we confirm 100k to resolve this.
+We have a bitcoin broker ready to do transfer today.
+Please confirm on payment you will provide:
+1.  complete file tree of the data downloaded from our network and a deletion log of all of the data,
+2.  confirmation that you deleted and will never publish any of our data, including our chat, now or in the future, and
+3.  a security report on how we got hacked, and how we can prevent future problems 
+Please confirm 1 to 3 and send us the bitcoin wallet address.","3/26/2021, 1:51:38 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,42,gang,"All of those is confirmed
+The wallet is : [redacted]","3/26/2021, 4:20:06 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,43,victim,OK standby,"3/26/2021, 6:34:18 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,44,victim,"OK, the broker sent $100K / 1.8650 bitcoins. Please confirm receipt and provide to us the deal items as soon as possible, thank you.","3/26/2021, 7:53:03 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,45,gang,The payment is received. We will provide the decryption tool the soonest possible.,"3/27/2021, 6:57:03 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,46,gang,[redacted]_decryptor.exe [ 103kB ],"3/27/2021, 10:41:54 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,47,gang,"Decryptor:
+1) Launch the decryptor under Administrative rights
+2) Wait till the decryptor window is closed
+3) if any of the files haven't changed the extension back to the original - repeat 1 and 2","3/27/2021, 10:42:16 AM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,48,victim,"OK - thanks. Regarding our data and files, can you please provide the full 100% file-tree list and proof of shred/deletion. Also, the security report of what happen so we can improve our network. thank you.","3/27/2021, 4:18:40 PM"
+https://www.ransomware.live/nego/Conti/20210315,Conti,20210315,49,gang,"Yes, we will keep you updated on this one.","3/29/2021, 7:18:54 AM"

@@ -1,1 +1,2 @@
 certifi>=2026.1.4
+beautifulsoup4>=4.12,<5

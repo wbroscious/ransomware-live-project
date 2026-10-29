@@ -1,0 +1,71 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,1,gang,"Hello, you heed help?","15 Oct, 16:27"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,2,victim,how much,"16 Oct, 16:04"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,3,victim,how much,"16 Oct, 16:05"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,4,gang,"Hi, please wait 5 min.","16 Oct, 16:06"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,5,victim,hello ?,"16 Oct, 16:06"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,6,gang,Hello.,"16 Oct, 16:06"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,7,gang,"Price for your case is $7,000. If you can pay this amount we send you all instructions","16 Oct, 16:09"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,8,gang,Hello?,"16 Oct, 16:33"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,9,victim,"Your note says all of our sensitive 
+data was downloaded to your servers. Does that mean you took our data? 
+We read an article that says you like to take data. We want our data 
+decrypted. So, if we pay we get a decryptor and all of our files back? 
+Is that how this works?","17 Oct, 03:29"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,10,gang,Yes.,"17 Oct, 03:33"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,11,victim,Ok. We are going to have a meeting to discuss this situation. Can you send us a file or two from the data you took?,"17 Oct, 21:48"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,12,victim,Ok. We had our meeting and agree that we need the decryption program. Can you fix a file to prove your ability to decrypt?,"19 Oct, 14:35"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,13,gang,"yes, upload file on https://ufile.io < 3mb","19 Oct, 16:05"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,14,victim,Here is the link it gave me. https://ufile.io/[redacted],"19 Oct, 16:24"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,15,gang,"Hello, can you send me teamviewer access on your infected server?","19 Oct, 17:40"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,16,victim,"We can't provide you access, but if 
+you tell us what you need to look at, we can provide information to you.
+ Do you need more sample files, or something else?","19 Oct, 19:29"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,17,gang,"Yes, more sample files (from any 
+servers and in share folders and local folders). Also tell me this 
+information: Your OS, how to you shutdown our ransomware, and how much 
+share folders in your local network. Thanks.","19 Oct, 19:31"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,18,victim,Win Server 2008 R2 The Anti Virus caught the malware We only have 1 server.,"20 Oct, 02:41"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,19,victim,https://ufile.io/[redacted],"20 Oct, 02:42"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,20,victim,Any update on our encrypted file?,"20 Oct, 21:25"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,21,victim,Hello. Have you decrypted our file?,"21 Oct, 14:00"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,22,gang,Hello,"21 Oct, 14:23"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,23,gang,We have another messages from recovery company,"21 Oct, 14:24"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,24,victim,What do you mean?,"21 Oct, 15:57"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,25,victim,"In the beginning we asked another 
+recovery company to help us. Do you know the name of the recovery 
+company that is communicating with you still? Their website said they 
+could decrypt our files, but it was a lie and I think they contacted you
+ instead. Did they pay you? Please ignore them and communicate here with
+ us and we will get this sorted out.","21 Oct, 22:10"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,26,gang,All recovery company is scam and just write us for buy decrypt.,"21 Oct, 22:13"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,27,victim,Have you made any progress on decrypting our test file?,"22 Oct, 15:58"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,28,gang,"Hello yes we have progress but we dont
+ understand which version our software you are encrypted, can you send 
+me time when you encrypted?","22 Oct, 16:05"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,29,victim,It looks like it happened on 10/11/2020.,"22 Oct, 18:26"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,30,gang,"So, your files encrypted tested 
+version our software and we must scan all your system for find keys for 
+decrypt, and also my boss up price for you so final amount is 30,000$","22 Oct, 19:52"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,31,victim,Can you give us the scan tool?,"22 Oct, 22:08"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,32,gang,"Scan with private global decryption 
+key and when scanned collect all keys and decrypted it in real time, we 
+can connect to teamviewer and scan it or send it you after payment","22 Oct, 22:10"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,33,victim,"There is no way we are letting you 
+back into the server. We also can't afford anywhere close to the amount 
+you are asking at $30,000. We could barely even afford $7,000. We are 
+just a few person company. If you can't prove you can decrypt, we can't 
+pay you anything. The price needs to go back to $7,000 because I don't 
+know if we can even afford that. How can you decrypt the data without 
+getting into our server?","23 Oct, 01:49"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,34,gang,In any case need teamviewer.,"23 Oct, 01:53"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,35,victim,"Why can’t we just run whatever key 
+find program you need us to run for you? We will not give you Teamviewer
+ access, especially not if you want a price that we can’t possibly 
+afford. Can you send us the program that you need to run to find the 
+keys, then decrypt a sample file, then we can pay $7000 for decryption?","23 Oct, 14:02"
+https://www.ransomware.live/nego/Ranzy/20201015,Ranzy,20201015,36,gang,"Im already repeat you - your network 
+encrypted with tested versions our software so for finding keys need 
+scan your system, our scanner with private key and we do not provide it 
+just like ""download this and run"". If you cant provide teamviewer and 
+pay $30,000 - goodbye","23 Oct, 14:03"

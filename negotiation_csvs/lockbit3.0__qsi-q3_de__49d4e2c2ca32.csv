@@ -1,0 +1,21 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,1,victim,[Chat started],25.01.2023 09:57:20 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,2,victim,"Good morning, you encrypted some of our machines.",25.01.2023 10:02:39 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,3,gang,"Hello, you pay - we give you decryptor.",25.01.2023 11:52:59 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,4,victim,What about our data?,25.01.2023 11:53:24 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,5,gang,after payment you will receive a decryptor and all copies of the data will be deleted from our servers,25.01.2023 12:07:39 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,6,victim,what did you steal? and what amount of money are you looking for?,25.01.2023 13:04:45 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,7,gang,we copy 30Gb data. file listing only after payment. Price for yoour company is 400k USD in Bitcoin or 380k USD in Monero,25.01.2023 13:14:13 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,8,victim,Why would we believe you without any proof? At first you only mentioned teh decryptor.,25.01.2023 13:15:02 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,9,gang,"You think I didn't take anything from your network? Why do you need proof if your files are encrypted? Obviously, I took the files when I was a guest at your place.",25.01.2023 13:21:50 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,10,gang,File: [1.png],25.01.2023 13:22:30 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,11,gang,File: [2.png],25.01.2023 13:22:36 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,12,gang,File: [3.png],25.01.2023 13:22:49 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,13,gang,File: [4.png],25.01.2023 13:22:55 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,14,victim,"Ok we checked with the people who know that data. That is not critical. And I saw, that you deleted the decryptor, so you can't decrypt anymore?",26.01.2023 15:37:32 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,15,gang,Decryptor will delete at - 2023-03-16 22:04:06,26.01.2023 16:23:28 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,16,gang,Decryptor not deleted.,26.01.2023 20:20:04 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,17,victim,"Now it shows correctly. Thanks. So to be frank. The encryption is not really an issue. The lost data might be. However, as I said, the data above is not critical. Management will need something better.",27.01.2023 16:05:53 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,18,gang,"Ok, we will  be prepare your database for public",27.01.2023 17:27:36 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,19,gang,your data is huge. the screenshots above are examples of random files. but what will be critical for you - may be in the total volume of data. Are we going to negotiate further?,29.01.2023 13:49:33 UTC
+https://www.ransomware.live/nego/lockbit3.0/qsi-q3_de,lockbit3.0,qsi-q3_de,20,gang,http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion/post/pBI4qxYrgfRwnYPN63d679e4254be,29.01.2023 13:50:26 UTC

@@ -1,0 +1,67 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,1,gang,"Hello, are you ready to negotiate?","11/06/2021, 20:51:20"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,2,victim,"Hello, did you take any data from us ?","13/06/2021, 11:43:05"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,3,victim,what are the next steps to get our systems decrypted ?,"13/06/2021, 11:43:27"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,4,gang,30percentlisting.txt [ 4.1MB ],"13/06/2021, 14:06:49"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,5,gang,datapack-example.zip [ 1.9MB ],"13/06/2021, 14:07:02"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,6,gang,"We have 450Gb of your data. You can choose any two files from this listing, we will upload them to you, this is proof that we have them.
+Wait, soon we will write you the terms of cooperation.","13/06/2021, 14:10:51"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,7,gang,"As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website.
+The recovery price is $600000 (15 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.
+If we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.
+We strongly recommend to review our offer in a timely manner to avoid additional expenses from your side on security software and on building the new network from scratch.","14/06/2021, 13:29:23"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,8,victim,How do I know you can decrypt my data?,"15/06/2021, 11:44:47"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,9,gang,"Send us your two encrypted files, and we'll decrypt them for you as proof.","15/06/2021, 14:56:40"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,10,victim,nopdf.csv.[redacted] [ 76kB ],"15/06/2021, 21:08:08"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,11,victim,esign_scripts-withTransID.sql.[redacted] [ 2kB ],"15/06/2021, 21:08:15"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,12,gang,Will decrypt and upload asap.,"15/06/2021, 21:16:53"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,13,gang,esign_scripts-withTransID.sql [ 1kB ],"15/06/2021, 23:24:19"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,14,gang,nopdf.csv [ 76kB ],"15/06/2021, 23:24:26"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,15,victim,Powerpoint-france-[redacted]-destination.jpg.[redacted] [ 4.4MB ],"16/06/2021, 06:15:01"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,16,victim,"Thank you, can you decrypt this sample file as well please?","16/06/2021, 06:15:33"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,17,victim,are you here ?,"16/06/2021, 09:41:42"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,18,gang,Powerpoint-france-[redacted]-destination.jpg [ 4.4MB ],"16/06/2021, 10:25:21"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,19,victim,"What will be the discount if we pay quickly to you today, we are working with banks and still struggling to get approvals as our financial records says we are already in loss because as you already know that we are an educational cultural exchange program that send student abroad to study, since start of covid till now we have not been able to sent applicants out of US in over a year which is same for other countries applicants","16/06/2021, 13:49:34"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,20,gang,$500 000. If you pay today,"16/06/2021, 14:33:44"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,21,victim,We really can afford what you are asking,"16/06/2021, 16:06:53"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,22,gang,Soon we will give you the bitcoin wallet address where you will need to send the coins. Please wait,"16/06/2021, 16:10:07"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,23,victim,"We have collected around 100k from our partners and emergency funds and if the bank approves our loan ( which we are in constantly followup ) we will get additional 100K, so we will at position to pay you around 200k$ if all went as planned, but above that we are having no options to collect more funds.","16/06/2021, 16:12:28"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,24,gang,"Is this a joke? Do you understand that your business is in our hands? Do you understand the consequences for you if you do not agree with us?
+We can't accept 200k.","16/06/2021, 16:22:54"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,25,victim,"We are not joking and know that you are a serious organization, as stated before the global pandemic effected our ability to operate for an entire year causing us to lose most of our business that keeps us floating. We are still working with the bank to try and convince them that their financial aid will not be wasted but they know about our current situation. We are pursuing additional means to finding more fundsand will update you on any progress we have made if any.","16/06/2021, 17:02:05"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,26,victim,"If you can give us another offer that might be more possible for us, it may help us convince the banks to approve a loan, we are still working on getting their assistance.","16/06/2021, 17:25:34"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,27,gang,We are ready to go down to $480k from our side. That's a huge step forward keeping in mind that our initial claim was already pretty low comparing to our usual demands.,"16/06/2021, 17:56:23"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,28,victim,"We should be able to secure the loan approval today which would give us the 200k once its put together, we are also currently working on an additional source that could potentially give us around $256,000 that we would then convert into BTC if the the process does not fall through. We know this is lower than what you are demanding but we just really do not have the type of financial ability to come up with that much.","16/06/2021, 18:37:42"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,29,gang,We are ready to accept $256k. I will provide the wallet for the payment a bit later today.,"16/06/2021, 18:41:02"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,30,victim,"Ok, we will continue to work on getting those funds in our possession and converted into BTC. We will send it once we have your BTC wallet.","16/06/2021, 19:55:52"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,31,gang,"The wallet for the payment is : [redacted]
+let me know once the transfer is made.","16/06/2021, 20:22:15"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,32,victim,"Thank you, we should have the funds soon hopefully. Once the payment is sent will you provide us with a list of the files that were taken, proof that they have been deleted as well as the decryption tool to restore all of our devices?","16/06/2021, 21:12:30"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,33,gang,"Yes, of course, you will be provide with all mentioned deliverables.","16/06/2021, 21:13:22"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,34,victim,"Thank you, could you also provide us with some details on how you got into our network after the payment is sent?","16/06/2021, 21:43:52"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,35,gang,"Yes, of course.","16/06/2021, 21:47:27"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,36,gang,"$256,000 amount is only valid if you pay today. You're running out of time","17/06/2021, 00:53:43"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,37,victim,Did you received the payment ? we are still waiting for the keys,"17/06/2021, 08:43:24"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,38,gang,Yes. The payment is received. The decryption tool will be provided soon. Already processed the request to tech dept.,"17/06/2021, 08:56:10"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,39,gang,[redacted]_decryptor.exe [ 103kB ],"17/06/2021, 09:06:11"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,40,gang,"Decryptor:
+1) Launch the decryptor under Administrative rights
+2) Wait till the decryptor window is closed
+3) if any of the files haven't changed the extension back to the original - repeat 1 and 2","17/06/2021, 09:07:49"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,41,victim,Hello can you please share with us the rest of deliverables 1) file tree of the data you took 2) proof that it has been deleted 3)Security report,"17/06/2021, 14:49:50"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,42,gang,"You have been breached through the email phishing campaign. The overall security score is 2 out of 5. 
+Our recommendations will be :
+1. Implement better email filtering policies
+2. Implement tape-based backup hardware
+3. Audit account access policies network wide
+4. Rebuild the network using segmentation procedures
+5. Implement better password policies
+6. Block pass-the-hash and kerberoast attacks
+7. Notify all your employees and security policies inside the company (opening email attachments, changing passwords, etc)
+8. Buying better AV/EDR software","18/06/2021, 01:29:16"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,43,gang,The other deliverables will be provided soon.,"18/06/2021, 01:29:31"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,44,gang,[redacted]-full-listing.7z [ 695kB ],"18/06/2021, 01:31:04"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,45,victim,Can you also send us the wipe proof ?,"18/06/2021, 12:31:46"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,46,victim,Also can you share which user was phished/compromised initially?,"18/06/2021, 16:44:59"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,47,gang,"Will do, but I am not sure if I will be able to find the initial compromised user right now, it's been pretty long time ago.","18/06/2021, 17:03:14"
+https://www.ransomware.live/nego/Conti/20210611,Conti,20210611,48,gang,log_remove.7z [ 1.1MB ],"18/06/2021, 18:19:19"

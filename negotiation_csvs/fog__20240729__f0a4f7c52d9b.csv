@@ -1,0 +1,181 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,1,victim,Hi,"Monday, 29 July 2024 15:37:56"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,2,gang,hi,"Monday, 29 July 2024 15:40:39"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,3,gang,I will give you details in a minute,"Monday, 29 July 2024 15:41:22"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,4,gang,"[provides a plain TXT files list]
+this is what has been taken from your network","Monday, 29 July 2024 15:47:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,5,victim,What are the instruction to restore our data?,"Monday, 29 July 2024 16:34:00"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,6,victim,Hi are you there?,"Monday, 29 July 2024 17:21:31"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,7,gang,I will give you instructions after payment,"Monday, 29 July 2024 17:53:48"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,8,victim,What payment?,"Monday, 29 July 2024 18:11:40"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,9,gang,"If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. I will give you our demand soon.","Monday, 29 July 2024 18:15:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,10,victim,Any news?,"Monday, 29 July 2024 19:59:48"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,11,gang,"If you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. To test our tool, send me 3 random encrypted files and we will decrypt them for free. Our demand is $200,000.","Monday, 29 July 2024 20:07:44"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,12,victim,"Hello, we don't know how to make the payment or how to facilitate it for you. On the other hand, we are a very small company and cannot afford the payment you are mentioning. What options do we have? And about the three files what is the procedure?","Tuesday, 30 July 2024 09:53:26"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,13,gang,"As for the files, if you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. We can provide you with a $20,000 discount if you pay us this week. The price is fair for your company.","Tuesday, 30 July 2024 10:36:45"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,14,victim,"We are willing to cooperate, but the amount requested is far beyond our capabilities as a small company. We can offer a smaller sum and pay it as soon as possible. Additionally, we need to clearly understand the payment process and the guarantees we have to securely recover our data. Please provide detailed instructions on how to proceed and assure us that we will receive all our data without further issues","Tuesday, 30 July 2024 13:40:45"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,15,gang,I can't give you an additional discount until I see your number. The price can be increased at any second if you keep haggling like this.,"Tuesday, 30 July 2024 14:16:50"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,16,victim,What number do you mean?,"Tuesday, 30 July 2024 14:20:59"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,17,gang,The number you are ready to pay at the moment.,"Tuesday, 30 July 2024 14:28:00"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,18,victim,"We can offer $120,000 and want to be transparent, avoiding a prolonged negotiation. Additionally, we need to understand how to make the payment. We will provide several files for you to decrypt to verify your capabilities.","Tuesday, 30 July 2024 14:59:21"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,19,gang,"$120,000 is not a bad offer but I can't accept this. I also want to avoid a prolonged negotiation, so our final price is $150,000. You have 2 days to gather the rest $30k and we will be done with it. I will give you our wallet for payment later.","Tuesday, 30 July 2024 15:16:50"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,20,victim,"We are agreeable to proceeding with the following conditions: First, we will provide several encrypted files for you to decrypt as proof of your decryption capabilities. Following this, we will make an initial payment of $120,000 in exchange for the instructions and necessary tools to decrypt the rest of our systems. Once we have successfully recovered our data, we will make a final payment of $30,000. In return, we expect a report detailing how the attack was carried out and confirmation that all our data has been removed from your possession and any related systems","Tuesday, 30 July 2024 16:03:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,21,victim,[provides a zip archive of encrypted files],"Tuesday, 30 July 2024 16:04:57"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,22,gang,"tell is there the file named ""auth.log.fog.savepoint"" somewhere near the file ""auth.log.fog""?","Tuesday, 30 July 2024 16:35:49"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,23,victim,"We couldn't find the file you mentioned, could you tell us where this file should be located and what it contains?","Tuesday, 30 July 2024 17:04:09"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,24,gang,it should be in the same directory with the file auth.log.fog that your gave me,"Tuesday, 30 July 2024 17:39:30"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,25,victim,Isn't in this directory,"Tuesday, 30 July 2024 17:40:44"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,26,gang,"[provides 2 decrypted files]
+I will give you everything right away when I received the full 150k payment. Let's resolve the issue quickly.",Admin 19:02:03
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,27,gang,[redacted] this is id for payment,Admin 19:03:52
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,28,victim,"We understand your position, but we must adhere to our agreed-upon model. We need to follow the steps we outlined previously: first providing a portion of the payment, receiving the necessary decryption instructions, and then completing the full payment upon confirmation. Additionally, specify which cryptocurrency it is for the payment.",Admin 19:09:35
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,29,gang,"We work with bitcoins. We cannot violate our policy, which means we cannot accept fractional payments.",Admin 19:27:14
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,30,victim,"Once the payment is made, how does the decryption process work? What guarantees do we have that all our data will be fully recovered and secured? We also want to understand what you will provide to us after the payment. Please understand that we are concerned due to our lack of experience with situations like this and need reassurance that everything will be resolved properly.",Admin 20:32:49
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,31,gang,"Once the payment is made, you will get the .exe files that you will need to run on your systems (win or esxi) to decrypt your files. We guarantee that you will be able to recover all the encrypted data. We will give you a deletion log file which means the files we stole .were removed from our source.",Admin 20:48:18
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,32,victim,"We need to finalize the financial and legal aspects on our end before proceeding with the payment. Once everything is ready and the payment is made, we will notify you immediately.",Admin 21:08:16
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,33,gang,"Standing by, thanks.",Admin 21:14:23
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,34,victim,"We are currently reviewing the payment method, and since we are not familiar with this process, we are unsure how to proceed. Could you explain how this is typically done and which services are usually used? We want to ensure that everything is handled correctly.","Wednesday, 31 July 2024 08:08:12"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,35,gang,see the link https://www.csoonline.com/article/570047/how-to-buy-bitcoin-for-ransomware-payment-if-you-must.html,"Wednesday, 31 July 2024 09:34:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,36,victim,"Thanks ,we are checking, but the registration process and validation will take some time.","Wednesday, 31 July 2024 09:54:27"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,37,gang,sure,"Wednesday, 31 July 2024 10:38:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,38,gang,How's your progress with that?,"Wednesday, 31 July 2024 14:10:07"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,39,victim,"The cryptocurrency purchase platform needs to verify the user, and this won't be completed until tomorrow. The process is turning out to be quite long and complex for us.","Wednesday, 31 July 2024 14:39:30"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,40,gang,tell me when you have updates,"Wednesday, 31 July 2024 14:52:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,41,victim,Sure,"Wednesday, 31 July 2024 15:21:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,42,victim,"We have conducted an initial test to verify that the process we're following is correct. Could you confirm that you have received the first transfer of $5? Meanwhile, we are in the process of acquiring the total amount of cryptocurrency needed for the full payment, but it is taking some time.","Thursday, 01 August 2024 09:37:55"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,43,gang,I received 0.000082,"Thursday, 01 August 2024 10:00:09"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,44,victim,"Okay, we are in the process of obtaining the full amount. Once we have it, we will proceed with the transfer.","Thursday, 01 August 2024 10:29:02"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,45,victim,"Once the payment is received, what are the next steps?","Thursday, 01 August 2024 10:29:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,46,gang,I will give you the decrypter after I see the money in the wallet,"Thursday, 01 August 2024 10:43:53"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,47,gang,and instructions of course,"Thursday, 01 August 2024 10:44:05"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,48,victim,"We are gathering the payment in the exchange, but we need to proceed gradually with the euro money transfers to the wallet. I believe we can have it ready in less than 48 hours. Maybe in 24 hours. I'll keep you informed.","Thursday, 01 August 2024 17:18:25"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,49,victim,"From the moment we make the payment transfer, how long will it take you to send me the decryptors for Windows files and virtual machines? Will you send them here, or should I give you an email?","Thursday, 01 August 2024 17:20:04"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,50,gang,I will send the decrypters via this chat after full sum received,"Thursday, 01 August 2024 19:20:05"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,51,victim,"Hi, I already have the funds available. I'm going to make a small test transfer from this wallet, and then the rest will be ok?","Friday, 02 August 2024 12:29:16"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,52,gang,"Sure. But you have already sent a test amount of 0.000082 BTC. Anyway, you can send another one.","Friday, 02 August 2024 12:43:01"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,53,victim,Please give me 3 hours and we will proceed. I write to you here. Thank you.,"Friday, 02 August 2024 14:14:33"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,54,gang,Standing by.,"Friday, 02 August 2024 14:36:49"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,55,victim,"Hi, we just did the test transfer. Please tell me everything is ok.","Friday, 02 August 2024 15:48:05"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,56,victim,When you verify it we make the final large transfer.,"Friday, 02 August 2024 15:48:29"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,57,gang,I see 0.003 confirming,"Friday, 02 August 2024 15:59:04"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,58,victim,ok Sr.,"Friday, 02 August 2024 15:59:37"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,59,victim,We proceed to make the payment. Can you confirm that I will have the decrypters instantly please?,"Friday, 02 August 2024 16:00:15"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,60,victim,You're online?,"Friday, 02 August 2024 16:18:32"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,61,gang,I can confirm,"Friday, 02 August 2024 16:19:23"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,62,victim,"ok, thanks. wait a minute please","Friday, 02 August 2024 16:19:47"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,63,gang,ok,"Friday, 02 August 2024 16:20:01"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,64,victim,"we are working on it, give me just 2 minutes. please prepare the decrypters to send me.","Friday, 02 August 2024 16:21:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,65,gang,preparing,"Friday, 02 August 2024 16:22:13"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,66,victim,it's OK.,"Friday, 02 August 2024 16:26:27"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,67,victim,Transfer OK.,"Friday, 02 August 2024 16:26:34"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,68,victim,"It has arrived, can you confirm it for me?","Friday, 02 August 2024 16:29:42"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,69,gang,confirming,"Friday, 02 August 2024 16:30:49"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,70,victim,Thanks!,"Friday, 02 August 2024 16:30:57"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,71,gang,give me a minute,"Friday, 02 August 2024 16:31:01"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,72,victim,"ok, sr.","Friday, 02 August 2024 16:31:15"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,73,gang,"Esxi
+
+chmod +x unlocker
+./unlocker --id [redacted] --log --target ""/vmfs/volumes/""
+
+Windows
+unlocker.exe -nomutex -console -target \\SERVER\C$
+unlocker.exe -nomutex -console -target C:\","Friday, 02 August 2024 16:44:47"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,74,gang,[provides a zip file with the decryptor],"Friday, 02 August 2024 16:45:06"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,75,victim,"OK, we'll try it out and I'll write to you if there are any questions or problems. Thanks.","Friday, 02 August 2024 16:48:51"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,76,gang,ok I am here,"Friday, 02 August 2024 17:14:35"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,77,victim,"[provides a PNG file]
+It gives us an error with the ESXI, I attach an image",Admin 18:45:50
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,78,victim,maybe too many files on the machine?,Admin 19:03:42
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,79,gang,specify one vm in directory of decrypter,Admin 19:14:23
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,80,victim,we are having some problems. I leave you screenshots:[provides 2 PNG files],Admin 23:08:27
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,81,victim,I am attaching the files that we cannot decrypt. Let's see if you can help us since they are very important to be able to operate:[provides 3 TXT files],Admin 23:11:35
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,82,victim,"We have carried out the test of specifying a machine instead of a folder and it does not give an error, but it does not decrypt either.",Admin 23:13:47
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,83,victim,"It is a very serious problem for us. Please, help.",Admin 23:14:03
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,84,victim,"For example, these files are impossible to decrypt (and they are small):[provides 8 .FOG files]","Saturday, 03 August 2024 06:42:29"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,85,gang,my team is working on it,"Saturday, 03 August 2024 08:12:52"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,86,gang,how many vms did you already fix and run?,"Saturday, 03 August 2024 09:05:55"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,87,victim,"We are very concerned because those machines are the SAP and two other environments we use to operate the business. Without these environments, we cannot function. Let me tell you which machines they are:","Saturday, 03 August 2024 10:08:09"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,88,victim,"1 - [redacted]-flat.vmdk
+1 - [redacted].vmdk
+0 - [redacted]-flat.vmdk
+0 - [redacted]-flat.vmdk
+[redacted]-flat.vmdk
+[redacted]-flat.vmdk
+0 - [redacted]-flat.vmdk
+0 - [redacted].vmdk
+[redacted]-flat.vmdk
+[redacted]-ctk.vmdk","Saturday, 03 August 2024 10:08:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,89,victim,"And swap files:
+
+vmx-[redacted].vswp
+vmx-0 - [redacted].vswp
+vmx-[redacted].vswp
+vmx-[redacted].vswp
+[redacted].vswp","Saturday, 03 August 2024 10:08:57"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,90,victim,"And .vmsd file:
+
+0 - [redacted].vmsd","Saturday, 03 August 2024 10:09:22"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,91,victim,And also many other files in .log format that are secondary and not needed to start the machines.,"Saturday, 03 August 2024 10:10:06"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,92,victim,How can we solve this? Do you need me to share more files that we cannot decrypt?,"Saturday, 03 August 2024 10:10:45"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,93,victim,I have shared some small files above that cannot be decrypted.,"Saturday, 03 August 2024 10:11:10"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,94,victim,"All the files we cannot decrypt are these (I already listed them above, but here they are again for your reference):","Saturday, 03 August 2024 10:12:03"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,95,victim,"This is very urgent because we cannot operate the business without it. We have tried everything possible. We have tried decrypting locally, on other machines, specifying directory paths, and the final paths of the machines.","Saturday, 03 August 2024 10:14:42"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,96,gang,there are some options for solving this,"Saturday, 03 August 2024 10:51:40"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,97,gang,"start decryption of the following folders using --threads 16
+/vmfs/volumes/[redacted]/
+/vmfs/volumes/[redacted]/
+/vmfs/volumes/[redacted]/
+/vmfs/volumes/[redacted]/
+/vmfs/volumes/[redacted]/","Saturday, 03 August 2024 10:52:59"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,98,gang,"when you have 'error open file' try to recheck permissions of a file copying it to another folder because permissions could change. use the command ls -la. Example: -rw-r--r--    1 root     root          8024 Aug
+Decrypter should be run as host
+file permissions -rw
+If host and permission don't match, then change host using 'chown' or change permissions using 'chmod'","Saturday, 03 August 2024 11:02:31"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,99,gang,Or another options is to try replace a file to another folder an run decrypter to decrypt exactly this one file,"Saturday, 03 August 2024 11:03:33"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,100,victim,ok let's try it.,"Saturday, 03 August 2024 11:06:17"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,101,victim,"Using -- threads 16 and other parameters that we have tried does not work, I attach an image:[provides a PNG file]","Saturday, 03 August 2024 11:26:12"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,102,victim,"Let's test the permissions issue of the second option. However, we run it as root.","Saturday, 03 August 2024 11:26:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,103,victim,We tried the third option yesterday and this morning and it doesn't work for us.,"Saturday, 03 August 2024 11:27:03"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,104,victim,Now I'll tell you about the issue of permissions.,"Saturday, 03 August 2024 11:27:14"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,105,victim,None of the options work.,"Saturday, 03 August 2024 12:21:04"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,106,victim,"Without these files we cannot operate, they are the core of the organization.","Saturday, 03 August 2024 12:21:33"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,107,victim,"Do you want me to upload virtual machines to the cloud, or give you access to a system?","Saturday, 03 August 2024 12:22:30"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,108,victim,please help,"Saturday, 03 August 2024 12:22:46"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,109,gang,my team is working on the trouble,"Saturday, 03 August 2024 13:10:04"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,110,gang,Upload to the cloud we will fix the file,"Saturday, 03 August 2024 13:52:08"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,111,victim,OK sr. Thanks!!!![provides a .vswp.fog file],"Saturday, 03 August 2024 13:58:04"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,112,victim,I'm sending you this small file so that your team can analyze why the decrypter doesn't decrypt. We followed all your instructions. Let's see if you can try it in your environment. It's 83Mb of file so you don't have to pass anything bigger that is difficult to handle.,"Saturday, 03 August 2024 17:52:52"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,113,victim,"[provides a JPG file]
+In this image more information with the permissions:[provides another JPG file]","Saturday, 03 August 2024 18:19:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,114,gang,ok,"Saturday, 03 August 2024 18:43:48"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,115,gang,wait,"Saturday, 03 August 2024 18:43:53"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,116,victim,Thanks!!!!,"Saturday, 03 August 2024 18:45:15"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,117,gang,I will have news for you most likely on Sunday,"Saturday, 03 August 2024 18:59:50"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,118,victim,"OK, thank you very much for your attention. We will be waiting for your news.","Saturday, 03 August 2024 19:08:42"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,119,gang,send me vmdk or vmdk-flat file,"Saturday, 03 August 2024 22:02:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,120,victim,"In a few hours you will have the files in a repository. Does that seem okay to you? This way we will not be able to share so many gigabytes. Thank you very much, without these virtual machines our entire company cannot work. It is the core of the business.","Saturday, 03 August 2024 22:15:08"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,121,victim,Thank you very much,"Saturday, 03 August 2024 22:15:21"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,122,victim,"We almost have a machine uploaded to the cloud to share the link with you. We have uploaded a ""small"" 1.2Gb file of those that also cause problems and are on critical routes for us:","Sunday, 04 August 2024 11:30:20"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,123,victim,https://[redacted].log.fog,"Sunday, 04 August 2024 11:30:27"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,124,victim,Give me a few minutes and I'll send you the link for the vdmk machine,"Sunday, 04 August 2024 11:30:56"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,125,victim,Thank you for your help. Without these operational vdmk machines our company would go bankrupt.,"Sunday, 04 August 2024 11:31:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,126,victim,We have the vdmk uploaded to the cloud. I am sending you credentials:,"Sunday, 04 August 2024 11:38:18"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,127,victim,sftp://[redacted].vmdk.fog,"Sunday, 04 August 2024 11:38:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,128,victim,Password:   [redacted],"Sunday, 04 August 2024 11:38:54"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,129,victim,"We are waiting for your news. With these files and the 83Mb one I sent you earlier that is also causing problems, I think your programmers could see what is wrong with the decrypter.","Sunday, 04 August 2024 11:39:49"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,130,victim,We are very concerned because all the critical files of vmdk virtual machines are in this situation. (8 machines),"Sunday, 04 August 2024 11:40:24"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,131,gang,got it,"Sunday, 04 August 2024 13:08:02"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,132,gang,I wait for something from my team,"Sunday, 04 August 2024 13:08:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,133,victim,Thanks,"Sunday, 04 August 2024 13:37:47"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,134,victim,"Hi, sorry to bother you. I wanted to know if we'll receive any updates today on how to resolve the file decryption issues. We are overwhelmed as we cannot decrypt files like the ones I mentioned in the conversation. Thank you, sorry for the insistence.","Sunday, 04 August 2024 17:34:18"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,135,victim,"Please, if you don't help us, our company will close, and we will lose our jobs.","Sunday, 04 August 2024 17:36:02"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,136,gang,we will help,"Sunday, 04 August 2024 17:56:36"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,137,gang,wait,"Sunday, 04 August 2024 17:56:43"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,138,victim,Thanks!!!!,"Sunday, 04 August 2024 18:03:19"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,139,victim,Can we turn off the SFTP machine where we have uploaded the .vmdk file?,"Sunday, 04 August 2024 22:29:58"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,140,victim,We can leave it active if necessary.,"Sunday, 04 August 2024 22:30:35"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,141,gang,let it be active for some time,"Monday, 05 August 2024 06:33:17"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,142,victim,Ok thanks,"Monday, 05 August 2024 06:42:52"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,143,gang,try to copy a vmdk file to a separate folder and run it after removing extension .fog,"Monday, 05 August 2024 11:25:13"
+https://www.ransomware.live/nego/fog/20240729,fog,20240729,144,victim,"OK,wait a moment.","Monday, 05 August 2024 12:55:22"

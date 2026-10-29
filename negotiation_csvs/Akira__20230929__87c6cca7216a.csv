@@ -1,0 +1,71 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,1,victim,now what?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,2,gang,">
+Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon. Do you have a permission to conduct a negotiation on behalf of your organization?",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,3,victim,"you took data? what, like you took files?",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,4,gang,list.rar // 375 KB,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,5,gang,These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,6,victim,"We have to pay too, yes?",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,7,gang,Surely.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,8,victim,ok. what is the price? what do we get in return?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,9,gang,"After payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. You will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. You will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. What's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. You will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again.
+
+I will let you know the price shortly, we're reviewing your financial papers to come up with a reasonable demand to you.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,10,gang,"So, we've gone through your files to define your financial abilities. We're willing to set a $300,000 price for ALL the services we offer:
+
+1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future.
+
+Let me know whether you're interested in a whole deal or in parts.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,11,victim,ANy chance you would share the password for our VCenter? We fear the hardware has now been damaged,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,12,gang,We didn't change the password for your VCenter.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,13,victim,well.. our creds do not work.. something is broke,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,14,gang,Your VСenter was in the quality of a virtual machine on one of the ESXi server. All VMs on this ESXi have been encrypted so you can't login to your VCenter. After payment you will be able to access to any of your data/servers.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,15,victim,so the host password was changed?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,16,victim,VMs are encrypted or deleted?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,17,gang,Encrypted for sure.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,18,gang,"The host password was changed, correct. You will get the pass after payment.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,19,victim,we need to know if the VMs are intact before we  pay please...thus need limited access to the host,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,20,gang,"We can't provide, sorry. All we can offer you is to choose 2-3 encrypted files and upoad them to our chat so we can will upload decrypted copies back for you to be calm.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,21,victim,"OK, Im not sure we will want to pay anything if we cant validate that the VMs are just encrypted vs. deleted or harmed in some other way. thanks",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,22,victim,[redacted].jpg,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,23,victim,[redacted],
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,24,victim,[redacted].docx,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,25,gang,We will provide these files soon. Also will you upload files for decryption?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,26,gang,[redacted]files.rar // 1.28 MB,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,27,victim,what is the breakdown of pricing for the services--if we decide to pay?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,28,gang,"Full decryption assistance costs 150k in your case, the evidence of data removal is 125k and the security report is 25k. All the guarantees are coming as a default.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,29,victim,ok,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,30,gang,We need your decision.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,31,gang,We will put your name on our blog today.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,32,victim,"as part of the local government, these decisions take everyone getting involved. This means things move slow",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,33,gang,So everyone involved needs to hurry up. We won't wait long.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,34,victim,What is your best price ?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,35,gang,For the whole deal?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,36,victim,yes. we are interested in the whole deal.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,37,gang,"We would accept $250,000.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,38,victim,OK. i will share your offer with the board tonight or in the AM. Thanks,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,39,gang,Hurry up on your part please.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,40,victim,"Our board is at this level of approval: $137,000  - Monies over this amount have other local regulatory hurdles.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,41,gang,We will discuss internally.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,42,gang,The management has decided to accept your offer. I will provide you with a btc wallet ID shortly.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,43,gang,"Here it is: [redacted]
+We expect to get payment within next 24 hours.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,44,victim,24 hrs. yikes! we will do our best. thanks,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,45,gang,We believe in you.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,46,victim,They said Monday is the soonest they can pay.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,47,gang,We will wait.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,48,gang,"It is already Tuesday. If we don't receive payment within 24 hours, you will see your name in our blog. Your data will be uploaded before the weekend this way.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,49,gang,"You can find yourself in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/ If you want this post to be removed, we have to agree at something.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,50,victim,We cant gather funds as quickly as you like. Now that you have let evryone know it will be even more dificult to get funds. Why did you do this???,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,51,gang,We can't read your thoughts. You left us almost 10 days ago and haven't dropped a word. Hurry up on your end. The post will be taken down immediately after payment.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,52,victim,Is the btc wallet still good to use?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,53,gang,"Hello. Sure, you can use it.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,54,gang,When will we see the transfer? We won't be waiting for another week. We either publish your data prior to weekend or receive the payment and get this over.,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,55,victim,whee is the best/proper place to purchase bitcoin?,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,56,gang,"C'mon guys. If you really wanted to pay, you would have done so a couple of weeks ago. Don't waste our time, please leave this chat. We absolutely do not care about this modest amount, so your data will be published soon.",
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,57,victim,where,
+https://www.ransomware.live/nego/Akira/20230929,Akira,20230929,58,gang,You will know.,

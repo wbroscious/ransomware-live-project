@@ -1,0 +1,26 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,1,victim,hello?,2025-01-22T20:05:51.321439Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,2,gang,"Hello. As you can see, your network was encrypted by DragonForce. Also we downloaded your data, so if you don't pay, we will publish it and you will have problems. After payment you will receive decryption software and proof that we've deleted your files. Don't waste your time, in 28 days decryptor will be automatically deleted.",2025-01-22T21:30:08.489146Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,3,victim,you took data? for what?,2025-01-23T19:57:20.438046Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,4,victim,how much do we have to pay?,2025-01-23T19:57:52.378533Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,5,gang,15 BTC. Data is needed for better negotiations. If you don't pay we will publish it so you will have big problems.,2025-01-24T00:01:24.766069Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,6,victim,interwebs say you can tell us what files were taken,2025-01-24T19:58:52.541737Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,7,victim,"ok, thank you",2025-01-27T21:03:38.406842Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,8,victim,"it says, file not found?",2025-01-27T21:05:28.955672Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,9,gang,"Try again, on our side it work.",2025-01-28T19:41:32.154822Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,10,victim,The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.,2025-01-29T00:47:20.098922Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,11,victim,got it,2025-01-29T20:52:57.760489Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,12,victim,is this listing represent all the data that was taken?,2025-01-29T21:35:02.623698Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,13,gang,Yes.,2025-01-30T00:57:58.10373Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,14,victim,"the money you want, is a really large number for us. can anything be done about this?",2025-01-31T21:34:51.65209Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,15,gang,"If you pay quickly, we can provide a 10% discount.",2025-01-31T22:12:43.978205Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,16,gang,http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog?post_uuid=[redacted]],2025-02-04T10:14:53.541054Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,17,victim,What is this link for?,2025-02-04T16:36:04.915551Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,18,gang,This is a private (hidden) report of a network breach in your company.,2025-02-04T16:39:59.338842Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,19,gang,To incentivize cooperation.,2025-02-04T16:40:34.039585Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,20,victim,it says 388 GB of data?? what is that??,2025-02-04T20:24:26.202847Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,21,gang,"The data we downloaded from your network, we gave you a list of files earlier.",2025-02-04T20:29:23.559957Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,22,victim,that represents 388 GB??,2025-02-04T20:36:42.857329Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,23,gang,Yes.,2025-02-04T20:55:52.803959Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,24,victim,you put our name on the blog? i thought we had more time?,2025-02-13T14:46:39.576792Z
+https://www.ransomware.live/nego/Dragonforce/BD004D632D87DBA0,Dragonforce,BD004D632D87DBA0,25,gang,"We gave you the link earlier, by clicking on it there was a timer when the post would become visible. Now you have 6 days to make the payment.",2025-02-13T15:19:39.883836Z

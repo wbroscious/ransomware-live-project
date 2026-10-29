@@ -1,0 +1,25 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,1,victim,hi,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,2,victim,hello,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,3,gang,"Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,4,victim,"yes, i have permission",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,5,victim,requesting sample data of [redacted],
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,6,gang,List.rar // 19.8 KB,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,7,gang,"These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,8,gang,Are you going to work with us?,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,9,gang,"What do you mean ""requesting sample data of [redacted]""?",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,10,victim,"I am looking for ""[redacted]""",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,11,gang,Could you please be a little more specific?,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,12,victim,[redacted] is the tiny bearded man hiding inside your encrypter. I assume he leaves his name so he can be contacteed. I much desire to speak with him. If you don't know him contact your management.,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,13,gang,OK.,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,14,victim,Standing by.,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,15,gang,"You can find your company name in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion. If you want this post to be removed, we have to agree on something.",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,16,victim,"Hello there, I got this chat from a different attack, in fact my company has a different name. Can I have a separate Chat?",
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,17,gang,From a different attack? What do you mean? What's your company name?,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,18,victim,[redacted],
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,19,gang,You're in the right place.,
+https://www.ransomware.live/nego/Akira/20250312,Akira,20250312,20,gang,You data will be published soon.,

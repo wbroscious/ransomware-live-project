@@ -1,0 +1,87 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,1,victim,We have found what appears to be your notes on our systems with links that we have followed here. What are the next steps and what is going on?,"Friday, 30 August 2024 16:56:22"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,2,gang,Hello. Wait please. I'll get back with details.,"Friday, 30 August 2024 17:35:20"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,3,victim,Hello? Any news?,"Sunday, 01 September 2024 16:57:05"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,4,gang,"[provides a plain TXT files list]
+that's what's been taken from your network","Monday, 02 September 2024 07:47:38"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,5,gang,"We can decrypt your systems in a couple of hours for only $290,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free.","Monday, 02 September 2024 13:45:34"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,6,victim,"Can you send us the files from the list we have provided below?
+08/29/2024  04:28 AM            98,075 [redacted].pdf
+08/29/2024  06:59 AM               165 [redacted].xlsx
+08/29/2024  03:50 AM            15,571 [redacted].xlsx
+08/29/2024  03:59 AM            28,381 [redacted].docx
+08/29/2024  04:01 AM            32,193 [redacted].pdf","Wednesday, 04 September 2024 19:37:39"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,7,gang,[provides a 7zip compressed archive],"Wednesday, 04 September 2024 20:11:55"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,8,victim,"Hello, we are still working on gathering encrypted files small enough to send over to you, but it's almost impossible to find any due to the way all of our systems were locked up in the first place. We hope to have something soon, but we will reach back out once we do.","Sunday, 08 September 2024 13:19:56"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,9,gang,I can wait until Monday only,"Sunday, 08 September 2024 14:40:00"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,10,victim,"Hello, we are still trying to pull some sample encrypted files to send to you but we are running into a lot of issues because our systems aren't available to grab the files off of. We will hopefully have a file or two tomorrow to send over.","Monday, 09 September 2024 23:59:59"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,11,gang,I hope so,"Tuesday, 10 September 2024 08:57:22"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,12,gang,I cant wait more,"Tuesday, 10 September 2024 08:57:29"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,13,victim,"Ok, we will have those files over today.","Tuesday, 10 September 2024 13:35:13"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,14,gang,I wait,"Tuesday, 10 September 2024 14:02:13"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,15,victim,"[provides 3 encrypted files]
+Please see the attached files.","Wednesday, 11 September 2024 13:49:27"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,16,gang,[provides 2 decrypted files],"Wednesday, 11 September 2024 14:06:55"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,17,gang,its time to perform payment,Admin 14:42:56
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,18,victim,"Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you’ve given us and while we want to get this resolved, we simply don’t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?","Thursday, 12 September 2024 01:04:56"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,19,gang,if you  make payment by Saturday evening I can take 255k to get to a resolution,"Thursday, 12 September 2024 10:05:00"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,20,victim,"Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you’ve given us and while we want to get this resolved, we simply don’t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?","Thursday, 12 September 2024 23:25:23"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,21,gang,if you make payment today evening I can take 255k to get to a resolution,"Friday, 13 September 2024 08:28:37"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,22,victim,"Thank you for the reduction, but even at that number it’s more than we have on hand. Can you please give us a number that we can take back to the firm’s leadership and see what can be done?","Monday, 16 September 2024 13:32:42"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,23,gang,what did you leadership said about 255k?,"Monday, 16 September 2024 14:41:41"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,24,gang,what do you have on hand?,"Monday, 16 September 2024 14:42:30"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,25,gang,I see,"Wednesday, 25 September 2024 14:28:27"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,26,gang,I will leak your files,"Wednesday, 25 September 2024 14:29:22"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,27,victim,"We are still interested in getting a decryptor to unlock a small portion of our data, but it’s not nearly worth 255,000. What is the lowest number you will take?","Wednesday, 09 October 2024 13:18:41"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,28,gang,I will wake 255k,"Wednesday, 09 October 2024 14:19:51"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,29,gang,what is it worth?,"Wednesday, 09 October 2024 14:20:07"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,30,gang,what would you say?,"Wednesday, 09 October 2024 14:20:16"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,31,victim,"Hello, we are willing to pay 25,000 so we can both move on from this. That’s about what it would take for us to just completely reconstitute the data anyway.","Thursday, 10 October 2024 14:34:22"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,32,gang,how much would it take for you to keep this situation secret?,"Thursday, 10 October 2024 15:01:32"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,33,victim,"$25,000 is what we have and could send you as soon as possible","Thursday, 10 October 2024 16:36:05"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,34,gang,you don't care if your files leaked?,"Thursday, 10 October 2024 18:34:58"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,35,gang,no I don't take 25k,"Thursday, 10 October 2024 18:35:11"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,36,gang,I can take 150k if you need decrypter only,"Thursday, 10 October 2024 18:35:37"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,37,victim,"While we appreciate the reduction for just the decryptor, we would also like for our data to be deleted from your possession and for proof of that being deleted. We can come up on our price, but we don’t have what you are asking for. We can do $60k that we can send immediately, and is more than double what we offered before. But that’s all we have onhand to send. Please consider our offer and we will get the process started of sending that money over to you.","Wednesday, 16 October 2024 16:50:19"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,38,gang,"$200,000 for data deletion and unlockers. You have the last chance","Wednesday, 16 October 2024 17:23:38"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,39,victim,"Hello, it’s taken us quite a while, but we have been able to source an additional 40,000 and we can now offer you 100,000 to get this done as soon as possible. This has been very stressful for us and we have exhausted all avenues of getting additional funding. If you accept, we will get the process started to send the money to you ASAP.","Saturday, 26 October 2024 20:09:12"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,40,gang,hi,"Sunday, 27 October 2024 08:52:28"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,41,gang,I cannot accept this for both data and unlockers but ok I can accept that for unlockers only,"Sunday, 27 October 2024 08:54:39"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,42,gang,175k for everything would let me get it resolved today,"Sunday, 27 October 2024 08:54:49"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,43,gang,hi,"Wednesday, 30 October 2024 12:23:39"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,44,gang,are you leaving me?,"Wednesday, 30 October 2024 12:26:36"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,45,victim,"Honestly, it's taken us this long just to collect what we've been able to collect and at the price that you're wanting, we'd just rather put the extra 75k into rebuilding the data we're missing. We've been trying to come to an agreement here, but we've exhausted all options and this is what we have.","Thursday, 31 October 2024 14:49:23"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,46,gang,Does it mean our deal is off?,"Thursday, 31 October 2024 15:02:54"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,47,gang,Do you understand that your files will be leaked?,"Thursday, 31 October 2024 15:03:25"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,48,gang,http://[redacted].onion/posts/[redacted]/,"Tuesday, 05 November 2024 13:32:00"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,49,victim,"Hello, the deal is not off. We have offered what we think is a generous offer to have a small portion of our data unlocked that we weren’t able to retrieve from backups. If you are going to walk away from 100,000 just to release our data, then we will have no choice but to reconstruct the data with that 100,000 and move on.","Tuesday, 05 November 2024 17:35:37"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,50,gang,hi,"Tuesday, 05 November 2024 18:03:59"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,51,gang,ok send 100k here [redacted] and we get this resolved,"Tuesday, 05 November 2024 18:04:17"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,52,gang,tell me when ready to send,"Tuesday, 05 November 2024 18:04:27"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,53,victim,"We are in the process of converting the funds now. I will reach back out once we have that process complete. Just so we are clear, you will provide us with a decryptor, proof of you deleting our data, and a report on how you got into our network?","Wednesday, 06 November 2024 17:18:51"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,54,gang,"Yes, we will provide you with everything you outlined.","Wednesday, 06 November 2024 19:06:05"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,55,gang,Hello. How long should I wait? Next week I will have to leak your files.,"Friday, 08 November 2024 16:30:25"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,56,victim,Payment has been made. Can you please provide the items as soon as possible?,"Saturday, 09 November 2024 18:24:46"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,57,gang,received. wait please,"Saturday, 09 November 2024 19:07:52"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,58,victim,"Hello, can you please provide the items to us?","Wednesday, 13 November 2024 14:30:32"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,59,gang,"Windows
+unlocker.exe -nomutex -console -target \\SERVER\C$
+unlocker.exe -nomutex -console -target C:\
+
+Esxi \ LINUX
+chmod +x unlocker_key
+./unlocker_key --id [redacted] --log --target ""/vmfs/volumes/""",Admin 14:43:43
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,60,victim,Can you help us out with some files that don't see to be decrypting? I've attached them.,"Sunday, 24 November 2024 22:52:40"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,61,gang,wait,"Monday, 25 November 2024 09:44:09"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,62,victim,The decryptor that we have isn't working on these files. Can you send me a decryptor that works?,"Monday, 25 November 2024 14:32:18"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,63,gang,Give us error logs and explain your actions in more details.,"Monday, 25 November 2024 14:50:28"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,64,victim,These are the best logs we can find.,"Tuesday, 26 November 2024 14:22:26"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,65,victim,We're just attempting to run the decryptor and it's simply not decrypting some of the files.,"Tuesday, 26 November 2024 14:24:02"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,66,gang,wait,"Tuesday, 26 November 2024 16:44:33"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,67,gang,are you trying to decrypt files on windows?,"Tuesday, 26 November 2024 16:46:09"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,68,victim,Yes,"Tuesday, 26 November 2024 20:20:24"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,69,gang,the problem is the path to files is too long,"Wednesday, 27 November 2024 12:27:26"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,70,gang,the decrypter works correctly,"Wednesday, 27 November 2024 12:28:23"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,71,gang,try to fix files in a different folder,"Wednesday, 27 November 2024 12:28:55"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,72,victim,We shortened the path and it's still not working,"Wednesday, 27 November 2024 16:19:10"
+https://www.ransomware.live/nego/fog/20240830,fog,20240830,73,gang,give us the log as well,"Wednesday, 27 November 2024 19:32:06"

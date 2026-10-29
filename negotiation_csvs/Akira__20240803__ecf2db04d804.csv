@@ -1,0 +1,46 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,1,victim,"Hello, we found your note",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,2,gang,"Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.
+
+Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,3,victim,yes,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,4,gang,List.7z // 346 KB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,5,gang,These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10mb size from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10mb size to our chat and we will upload decrypted copies back.,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,6,victim,Directory of C:\DATA\[redacted].doc   Directory of C:\DATA\[redacted].xlsx  Directory of C:\DATA\[redacted].doc  Directory of C:\DATA\[redacted].xls  Directory of C:\DATA\[redacted].xlsx,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,7,gang,files (7).rar // 1.5 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,8,gang,Please review the files. Do you want to test our tool?,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,9,victim,Can you please decrypt these files for us?,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,10,victim,files.rar // 5.1 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,11,gang,The archive is corrupted. Please reupload asap.,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,12,victim,files.rar // 5.1 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,13,gang,Same thing. Could you please upload the files one at a time?,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,14,gang,We are waiting for the files today.,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,15,victim,[redacted].ini.akira // 82.3 KB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,16,victim,[redacted].ocx.akira // 830 KB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,17,victim,[redacted].DAT.akira // 587 KB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,18,victim,[redacted].VD7.akira // 2.76 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,19,victim,[redacted].mdb.akira // 4.09 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,20,gang,decrypted.7z // 4.99 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,21,gang,You can review the files.,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,22,victim,Thank you for providing us with the decrypted files. How do we go about getting the rest of our files decrypted?,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,23,gang,We will give you our decryption tool after payment. You will recover your systems within 24 hours.,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,24,victim,How much does the decryption tool cost?,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,25,gang,"1) full decryption assistance $275,000;
+2) evidence of data removal $200,000;
+3) security report on vulnerabilities we found $35,000;
+Guarantees are included. The full deal is $400,000.",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,26,victim,"We are interested in the decryption tool and can pay quickly, but we cannot offer what you are asking. What type of discount can you offer to help speed up this process?",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,27,gang,"Sure. $250,000 if you make payment within 48 hours.",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,28,victim,"$250,000 for the full deal, correct?",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,29,gang,"$250,000 is the discounted price for the tool. If you want the full deal and are ready to pay within 48 hours, we can accept $350,000.",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,30,victim,Can you please provide instructions for payment,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,31,gang,"We accept bitcoins. To gain bitcoins you have to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin
+https://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. Here is our BTC wallet ID for payment: [redacted]",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,32,victim,"payment was just sent, can you please confirm",
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,33,gang,unlockers.7z // 2.1 MB,
+https://www.ransomware.live/nego/Akira/20240803,Akira,20240803,34,gang,"unlocker.exe -p=""path_to_unlock"" 
+unlocker.exe -s=""C:\paths.txt"" 
+where ""paths.txt"" is a list of paths for the decryptor, each path on a new line 
+ESXi commands 
+1) chmod +x unlocker 
+2) ./unlocker -p=""/vmfs/volumes""",

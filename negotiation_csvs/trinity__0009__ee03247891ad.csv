@@ -1,0 +1,9 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,1,victim,"I'd like to know if 
+it would be able to be decrypted. I've just upload one of the encrypted 
+files. Please let me show that you can decrypt it.",
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,2,victim,What are you doing now?,
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,3,gang,hello,
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,4,gang,hello,
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,5,gang,how many computers do you want to decrypt?,
+https://www.ransomware.live/nego/trinity/0009,trinity,0009,6,gang,"For the test, upload the file here file.io and send us the link.",

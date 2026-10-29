@@ -1,0 +1,74 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,1,victim,"We take you seriously and we want to work something out but $50k is too
+ much for us to get our computers back. COVID ruined our finances and we
+ have entire lots of cars from last year sitting outside that no one is 
+interested in because no one is driving anymore. Can we work out a 
+reduction in the price?",4 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,2,gang,"Hello , my boss can offer 20% discount",3 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,3,victim,"Thanks for working with us. I'm not sure if that's going to be enough 
+of a discount but I will talk with my boss and see what we can do. We 
+see different names for the notes on each computer with different keys 
+in them. Does the price include unlocking all of our computers?",3 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,4,gang,for all network,3 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,5,victim,"Sorry we haven't reached out in a little while but we have been trying 
+to figure all this out while keeping the business running. We want to 
+make sure you are able to decrypt more than just one system. Can you 
+decrypt these files to show you can?",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,6,victim,File 1,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,7,victim,File 2,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,8,gang,file,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,9,gang,file,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,10,victim,Pulling these down now. I talked to my boss and he said we can't pay in Monero do you accept Bitcoin?,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,11,gang,"Of course , btc enabled",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,12,victim,"Ok that's good to know. My boss wanted to see if you would be willing 
+to let us pay $10,000 for the decryption. We know it's not what you are 
+asking for but this is short notice and we are trying to do what we can 
+to find available cash.",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,13,gang,not interested,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,14,victim,"OK, my boss had someone willing to loan him some money if he needed to.
+ Will you take $20,000? We could buy the Bitcoin and get you the money 
+in 24 hours.",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,15,gang,25k and okay not lower,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,16,gang,price update,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,17,victim,"OK, let me talk to my boss and get back to you.",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,18,victim,Just so I'm clear that payment would get us a decryptor for all our encrypted computers?,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,19,gang,of course,2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,20,victim,"OK we are working on getting the money together right now. Did you take
+ any files from our computers? And how fast after we pay could we get 
+the decryption software?",2 days ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,21,gang,few minutes,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,22,victim,OK thats good to know but my boss still wanted to know about whether or not you guys took our data before we sent the money.,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,23,gang,We took your data,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,24,victim,What did you take?,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,25,gang,"It will take more than a month to analyze the data.
+If all you need is a data, leave this chat.",1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,26,victim,"We still want to move forward with payment for the decryptor we are 
+just trying to understand what data was taken because it could impact 
+our customers and we care about them. If you can give us a list of files
+ it would help us a lot. Can you confirm that the bitcoin wallet is 
+still [redacted]? Will you help us if something 
+goes wrong with the decryption?",1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,27,victim,We want to make payment today if you can confirm the wallet for us. We don't want to send it to the wrong place.,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,28,gang,[redacted] yes it is the right adress,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,29,victim,thanks for verifying.,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,30,victim,we are getting ready to make payment. Are you able to provide us a Dir listing of what you exfil'd?,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,31,gang,of course,1 day ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,32,victim,"It took us longer yesterday than we thought to get the money together. 
+We should be able to buy the bitcoin and send you payment today.",17 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,33,gang,ok we wait,17 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,34,victim,"OK, it was difficult to get everything done on the weekend since the 
+banks were closed most of the time but we should be making payment very 
+soon. I just wanted to confirm that the price is still $25,000. The site
+ shows 0.77 BTC which is $25,569 and there is a reference to Bitcoin 
+(+10%). As long as we pay the agreed $25,000 you will decrypt all of our
+ files on all computers right?",9 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,35,victim,"OK, it was difficult to get everything done on the weekend since the 
+banks were closed most of the time but we should be making payment very 
+soon. I just wanted to confirm that the price is still $25,000. The site
+ shows 0.77 BTC which is $25,569 and there is a reference to Bitcoin 
+(+10%). As long as we pay the agreed $25,000 you will decrypt all of our
+ files on all computers right?",9 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,36,victim,"OK we sent the 0.77 Bitcoin, please confirm as soon as you get it.",8 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,37,gang,confirm,5 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,38,gang,yes for all network,5 hours ago
+https://www.ransomware.live/nego/REvil/20210628,REvil,20210628,39,gang,waiting 3 confirmations,5 hours ago

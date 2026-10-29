@@ -1,0 +1,18 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,1,gang,"Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get your reply you will be provided with all the details.",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,2,victim,yes,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,3,gang,List.7z // 952 KB,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,4,gang,"These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;
+2) evidence of data removal;
+3) security report on vulnerabilities we found;
+4) guarantees not to publish or sell your data;
+5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,5,victim,how much?,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,6,gang,"We're willing to set a $1,950,000 price for ALL the services we offer.",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,7,victim,"alright, lets do it then!",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,8,victim,Let us know your wallet address?,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,9,gang,Here is our BTC wallet [redacted]. Let us know when can we expect the transfer.,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,10,gang,"You have 24 hours to give us your decision regarding this deal. If you stay silent, we will announce the breach on our blog.",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,11,victim,"ok, will send the amount!",
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,12,gang,Let us know when to expect the transfer.,
+https://www.ransomware.live/nego/Akira/20250104,Akira,20250104,13,gang,"You can find your company name in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion If you want this post to be removed, we have to agree on something.",

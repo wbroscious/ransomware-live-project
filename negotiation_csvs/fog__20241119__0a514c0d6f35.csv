@@ -1,0 +1,4 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/fog/20241119,fog,20241119,1,victim,Hello,
+https://www.ransomware.live/nego/fog/20241119,fog,20241119,2,gang,Hello,"Tuesday, 19 November 2024 19:14:24"
+https://www.ransomware.live/nego/fog/20241119,fog,20241119,3,gang,"We took these files from you. If you need a proof we indeed possess it, send me a couple of directories to the files you want to see. To test our tool, send me 3 random encrypted files and we will decrypt them for free. If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. The bosses are demanding $160,000 for said services.","Tuesday, 19 November 2024 19:23:56"

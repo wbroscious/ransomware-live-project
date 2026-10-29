@@ -1,0 +1,57 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,1,gang,Hello. I'm here. How can I assist you?,
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,2,victim,Hello?,3.02.2025 22:39:55
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,3,gang,"Your company's network is attacked and the entire system is encrypted. We have downloaded all the company's confidential data. After payment you will receive.
+
+1. Decryption tool for all devices
+
+2. Complete list of files taken from the network.
+
+3. Proof that all your data has been deleted.
+
+4. Information about how we got into the network.
+
+5. Security recommendations to stop future attacks.
+
+6. Promise that we will not attack you again in the future.
+
+7. Guarantee that we will forget about this incident.",3.02.2025 22:56:43
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,4,victim,"ok, what do we need to do?",4.02.2025 14:38:51
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,5,gang,We will provide the list of files what we took from you as soon as possible and you can offer 3 names of files from it and we will provide them as a proof of availability. Also you can send 3 encrypted files and we will decrypt them as a proof that our decryption tool really works. But these files must not contain a valuable information.,4.02.2025 15:22:44
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,6,gang,file tree.txt (0.232 MB),4.02.2025 21:1:24
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,7,victim,"Thank you, I'll review and pick out some files",5.02.2025 13:33:45
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,8,victim,"Please provide us with copies of the following files:
+
+- [redacted].xls
+
+- [redacted].pdf
+
+- [redacted].docx",6.02.2025 21:47:33
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,9,gang,We will do it as soon as possible.,6.02.2025 21:56:52
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,10,gang,[redacted].docx (0.032 MB),6.02.2025 23:16:34
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,11,gang,[redacted].xls (0.039 MB),6.02.2025 23:17:11
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,12,gang,[redacted].pdf (0.484 MB),6.02.2025 23:17:24
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,13,victim,"ok, so next I'm suposed to send you encrypted files? How am I supposed to get to those when you've encrypted the server?",7.02.2025 22:41:36
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,14,gang,In order for you to make sure that we can really help you decrypt all your files and prevent all your information from going online - you can offer us some test files ... and we will decrypt them. After full payment you will get a full activation key to your computers and forget about us forever.,7.02.2025 22:46:12
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,15,victim,"ok, I need to get with out team when they're back on Monday to see what we're able to get and send to you",8.02.2025 21:18:21
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,16,gang,On Monday we are waiting.,8.02.2025 21:34:31
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,17,victim,"What kind of files are we allowed to upload? All we've been able to get are some encrypted log files, will that work?",10.02.2025 22:33:30
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,18,gang,"You can select 2-3 random files from the list, and we will upload them to this chat as proof of availability. To prove that we can decrypt your data correctly, you can upload 2-3 encrypted files to our chat, and we will upload the decrypted copies back",10.02.2025 23:55:52
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,19,victim,Please decrypt the following files:,11.02.2025 3:7:3
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,20,victim,[redacted] (0.555 MB),11.02.2025 3:7:18
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,21,victim,[redacted] (0.238 MB),11.02.2025 3:7:32
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,22,victim,[redacted] (0.239 MB),11.02.2025 3:7:43
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,23,gang,[redacted].log (0.551 MB),11.02.2025 10:47:46
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,24,gang,[redacted].log (0.234 MB),11.02.2025 10:47:53
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,25,gang,[redacted].log (0.234 MB),11.02.2025 10:47:57
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,26,victim,"Thank you. We are considering your demands, is there any way you could provide a discount to your price?",12.02.2025 14:7:45
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,27,gang,"As a sign of goodwill and quick closing of the deal, we are ready to give a 10% discount and stop at the price of 63,000 dollars. You can pay this amount as we have reviewed your financials. Talk to the management and pay, after payment you will get everything you agreed on.",12.02.2025 14:10:48
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,28,victim,"Understood. If we only require either the decryptor or confidentiality, would the cost be adjusted accordingly?",13.02.2025 13:48:56
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,29,gang,"Understand that we don’t have something that requires you to pay separately for something. Any payment includes all our terms and conditions. It depends whether you need decryption or not. Should your data be deleted or not, etc. Everything is included in the complex. Hurry up, there is very little time left.",13.02.2025 13:51:54
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,30,victim,That makes sense. We have some key decision makers that are flying in to discuss your deal. We expect to have an update for you early next week.,14.02.2025 15:16:43
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,31,gang,"As we see that you are interested in making a deal as soon as possible, we do for you an exception and extend the timer till the 19th of February for you to make a decision with your management and inform us about the payment. Please, don't delay with it, otherwise we will return with the tools which are stronger. You must understand that as the timer will expire we will post your files on our blog.",14.02.2025 16:16:45
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,32,victim,"Our apologies, we are awaiting a decision from leadership. Can we have one more day to consider your offer?",19.02.2025 17:4:56
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,33,gang,we extended the timer for 24 hours.,19.02.2025 17:8:38
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,34,gang,"So you just had a meeting about finances. What do you have to offer? We are willing to make an additional discount and accept payment from you today. The price will be 60,000 dollars. That's a very good discount. We're ready to make the deal today and start rebuilding you. It's up to you. Time is running out today.",20.02.2025 18:27:40
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,35,gang,"We see that you are not interested in the security of your patients and choose to play the silent way. Tommorow we will publish a press relise about you on our blog, and in a couple more days all of your data will become public. You still have time to start collaborating and do it without any attention from the press and the public.",26.02.2025 12:58:15
+https://www.ransomware.live/nego/Qilin/20250203,Qilin,20250203,36,gang,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/site/view?uuid=[redacted],26.02.2025 12:59:41

@@ -1,0 +1,338 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,1,gang,"Hello and welcome to Hive.
+How may I help you?",2021-10-26 13:36
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,2,victim,we have some files crypted and we want to decrypt them,2021-10-26 13:38
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,3,victim,anybody there?,2021-10-26 14:20
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,4,gang,"To decrypt your files you have to pay $3,500,000 in Bitcoin. The price is not a subject to discuss.",2021-10-26 17:15
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,5,victim,"sorry, are we talking about 3,5K or 3,5M $",2021-10-26 18:03
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,6,victim,"in the first case, how should we do the payment and when will we be able to decrypt files?",2021-10-26 18:04
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,7,gang,It's clearly the price is $3.5M,2021-10-26 18:06
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,8,gang,We also have exfiltrated files which will be disclosed in case of refusing to pay.,2021-10-26 18:07
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,9,gang,To convince you to pay we can make calls to your partners to notify them about the incident.,2021-10-27 18:38
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,10,victim,"No need for it. We've been checking with Finance your figures and despite willing to pay, we cannot afford the requested amount. We are a roughly over 77M $ yearly revenue company as you can check at official business directory (https://www.dnb.com/business-directory/company-profiles.[redacted].html). That amount is far away from our ability to comply with your demands.",2021-10-27 18:46
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,11,gang,The price is not a subject to discuss.,2021-10-27 19:11
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,12,gang,"We performed files analysis. The impact of disclosure and undecryptable files will cost you few times more then $3.5M.
+To prove that we have exfiltrated files I give you a sample archive.
+
+https://privatlab.com/s/v/NQqR2jo2B7SyQeBnp5y4",2021-10-27 19:16
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,13,victim,I'm not trying to negotiate. It's just you are considering we are about 500% bigger than we are. It's just a matter of being realistic.,2021-10-27 19:17
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,14,gang,I'll fix the number at the company's profile but it will not change anything.,2021-10-27 19:18
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,15,gang,We will not wait forever. You have to decide.,2021-11-01 11:15
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,16,gang,"Let me explain to you something.
+There is no other way to decrypt files other then to purchase the decryption software. The attempts to use something different then original software MAY cause irreversible damage. Your files will be unable to decrypt!",2021-11-02 14:40
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,17,victim,"We perfectly understand you but, as told before, we have a significantly lower size than you have considered. Your demands are far from feasible for us (no such cash available).
+As I told you, we are not trying to negotiate but if we want to reach something feasible for both parties, we need to get close to realistic capabilities.
+Are you open to discuss?",2021-11-04 11:22
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,18,gang,"I offer you $2,500,000 and it's valid until the end of the weekend.",2021-11-04 20:02
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,19,victim,"Still high, but anyway I'll pass your offer to management. Anyway, is there any proof of trust that the decryption software will fully solve the issue?",2021-11-05 14:35
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,20,victim,"By the way, we don't have Bitcoin. How shall we proceed?",2021-11-05 14:47
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,21,gang,To prove the decryption software works you may upload few encrypted files and a key related to them. It usually locates at C:\*.key.* or at root of a shared folder,2021-11-05 16:29
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,22,gang,"You may purchase Bitcoin here -  https://www.kraken.com/
+
+Just create a new business account and make SEPA-payment.
+After registration and SEPA-payment you should immediately contact to Kraken Support and raise the withdrawal limit to $2.5M per 1 BTC transaction.",2021-11-05 16:35
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,23,victim,there are several files like this one,2021-11-05 16:57
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,24,gang,"Yes, and then upload encrypted files which contain 4igKANBkvldLbBKaHpLIOSo-[redacted]*.[redacted]",2021-11-05 19:03
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,25,victim,"OK OK, now I undertand",2021-11-05 20:51
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,26,victim,I will upload a single folder with different file types. Is it OK?,2021-11-05 21:00
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,27,victim,my colleagues are warning me about some sort of verifications asked by Kraken registration. I will be updating status.,2021-11-05 21:02
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,28,gang,Upload few encrypted files with a key. You don't have to upload full folder.,2021-11-05 21:03
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,29,victim,there you go,2021-11-05 21:29
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,30,gang,"I have uploaded one file and others, I see they contain important info. I can mask some data in it^
+
+Passphrase : XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+Vault      : Serverdom
+Machine    : SERVERDOM",2021-11-05 21:35
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,31,gang,"Name	Type	Data	Timestamp
+_msdcs			
+_sites			
+_tcp			
+_udp			
+DomainDnsZones			
+ForestDnsZones			
+(same as parent folder)	Host (A)	192.168.YYY.XXX	03/07/2019 19:00:00
+(same as parent folder)	Host (A)	192.168.YYY.XXX	01/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	20/06/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	25/06/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	13/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+Backups	Host (A)	192.168.YYY.XXX	static
+Backups2	Host (A)	192.168.YYY.XXX	29/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	12/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	12/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	18/06/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	23/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	22/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 3:00:00
+Gestion	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	10.0.0.11	static
+[redacted]	Host (A)	10.0.0.12	static
+[redacted]	Host (A)	10.0.0.13	static
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	23/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+LAPTOP-[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 13:00:00
+LAPTOP-[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 22:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	13/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	24/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/08/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	16/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	16/07/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	24/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/07/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	17/07/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	22/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 17:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 10:00:00
+[redacted]SRV	Host (A)	192.168.YYY.XXX	31/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 20:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 22:00:00
+[redacted]SRV	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/08/2019 14:00:00
+NAS-2	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	04/07/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 0:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	27/08/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 2:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+PRESTA[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 19:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 7:00:00
+[redacted]-HP	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	30/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 5:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 12:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	31/08/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 11:00:00
+serverdom	Host (A)	192.168.YYY.XXX	static
+Server[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+ServerEditorial	Host (A)	192.168.YYY.XXX	05/09/2019 13:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+servergit	Host (A)	192.168.YYY.XXX	static
+ServerHCM	Host (A)	192.168.YYY.XXX	02/09/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	11/08/2019 8:00:00
+serverjava	Host (A)	192.168.YYY.XXX	static
+SERVERMD	Host (A)	192.168.YYY.XXX	08/09/2019 8:00:00
+ServerMonPrint	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+serverpc	Host (A)	192.168.YYY.XXX	static
+serverphp	Host (A)	192.168.YYY.XXX	static
+serverrails	Host (A)	192.168.YYY.XXX	static
+ServerRDP	Host (A)	192.168.YYY.XXX	25/08/2019 8:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 9:00:00
+SERVERSAP	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+SERVER[redacted]	Host (A)	192.168.YYY.XXX	30/06/2019 6:00:00
+Server[redacted]	Host (A)	192.168.YYY.XXX	01/09/2019 8:00:00
+SERV[redacted]	Host (A)	192.168.YYY.XXX	28/08/2019 10:00:00
+Servervpn	Host (A)	192.168.YYY.XXX	25/08/2019 15:00:00
+serverweb	Host (A)	192.168.YYY.XXX	static
+ServerWebW1Apps	Host (A)	192.168.YYY.XXX	static
+SERVERWSUS	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+Srv[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 8:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 15:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 9:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	25/08/2019 15:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	26/08/2019 8:00:00
+SRV[redacted]	Host (A)	192.168.YYY.XXX	07/09/2019 11:00:00
+srv[redacted]	Host (A)	192.168.YYY.XXX	static
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 11:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	03/09/2019 8:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	29/08/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 3:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	08/09/2019 22:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	04/09/2019 14:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	05/09/2019 15:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	02/09/2019 16:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 12:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	06/09/2019 13:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 9:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 10:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]	Host (A)	192.168.YYY.XXX	09/09/2019 7:00:00
+[redacted]ADMIN01	Host (A)	192.168.YYY.XXX	21/06/2019 9:00:00
+WIN-[redacted]	IPv6 Host (AAAA)	2002:1400:0122:0000:0000:0000:1400:0122	static
+(same as parent folder)	Name Server (NS)	serverdom02.[redacted].local.	static
+(same as parent folder)	Name Server (NS)	serverdom.[redacted].local.	static
+(same as parent folder)	Start of Authority (SOA)	[222783], serverdom.[redacted].local., hostmaster.[redacted].net.	static",2021-11-05 21:38
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,32,victim,"too much masking, isn'tit?",2021-11-05 21:40
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,33,victim,i cannot use them for checking validity,2021-11-05 21:41
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,34,gang,All you need is to see that I have decrypted it. There is nothing to validate more,2021-11-05 21:44
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,35,victim,I understand,2021-11-05 21:44
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,36,victim,"well, I'll pass the outcome to management but it doesn't appear to be complete",2021-11-05 21:45
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,37,victim,I'll be back to you,2021-11-05 21:45
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,38,victim,those where config files,2021-11-05 21:46
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,39,victim,the more trivial info available,2021-11-05 21:47
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,40,gang,I will not to disclose you any sensitive files until payment will be made. Select other files if you still do not believe that the decryption software works.,2021-11-05 21:55
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,41,victim,"no, it's OK. I'll give that to management and if they trust it I'll keep you posted",2021-11-05 22:02
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,42,gang,I need to hear an update from you today,2021-11-08 17:43
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,43,victim,"guys, we finally give up with this shit",2021-11-14 18:52
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,44,victim,Kraken has blocked our registration and funds cannot be moved,2021-11-14 18:53
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,45,victim,it seems to be an impossible process,2021-11-14 18:53
+https://www.ransomware.live/nego/Hive/20211026,Hive,20211026,46,gang,I'm sure this situation will be resolved,2021-11-14 20:48

@@ -1,0 +1,97 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,1,victim,Hello. My files are encrypted. Can you help?,1 day  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,2,gang,Hello,1 day  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,3,gang,"Yes, we can decrypt your all files",1 day  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,4,gang,When will you pay? You don't have much time left to pay with a discount,19 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,5,victim,"Thank you. We are working as fast as we can. Can you please decrypt 
+the following files so we know that decryption is going to work?
+ 
+
+[redacted]_L.jpg.[redacted]
+60.85 kB",18 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,6,victim,"File:
+ 
+
+[redacted]_M.jpg.[redacted]
+14.8 kB",18 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,7,victim,"File:
+ 
+
+[redacted]_T.jpg.[redacted]
+8.81 kB",18 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,8,gang,Yes. We will send the decrypted files shortly,15 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,9,gang,"First
+ 
+
+[redacted].jpg
+60.71 kB",13 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,10,gang,"Second
+ 
+
+[redacted].jpg
+14.66 kB",13 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,11,gang,"Third
+ 
+
+[redacted]_T.jpg
+8.67 kB",13 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,12,victim,"Thank you for decrypting the files. Our business has suffered during
+ the COVID pandemic. We can pay $184,922 in Bitcoin to restore our 
+computers.",13 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,13,gang,"If you pay within the next 24 hours we can give you $25,000 discount, but not more.",12 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,14,victim,"We searched your group and people say you take data. Did you take 
+any of our data? We can pay $226,000 in Bitcoin to restore our 
+computers.",12 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,15,gang,"$250,000 and we will finish this very quickly",11 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,16,victim,Thank you. I will bring this to my management now. Are you able to tell me if your group took any data from our computers?,11 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,17,gang,We didn't take data.,11 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,18,victim,"Thank you. We accept your offer of $250,000. Can you please confirm 
+the Bitcoin wallet. We have [redacted]",10 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,19,gang,Confirmed.,10 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,20,gang,Write after sending payment.,9 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,21,victim,"Payment sent, please confirm that it was received.",9 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,22,gang,"Linux decryption instruction:
+1. Upload decryptor to esxi.
+2. Set run permissions: chmod 777 decryptor
+3. Run decryptor: ./decryptor 
+ 
+
+lin_decryptor.out
+2.3 MB",9 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,23,gang,"The decryptor works in 2 modes:
+1. GUI
+2. Console
+
+Three functions are available in GUI mode:
+1. ""DECRYPT ALL"" - search and decrypt ALL encrypted files on the local 
+PC and on network resources (Shares), where this PC has access.
+2. ""DECRYPT FOLDER"" - decrypts files in the specified folder, which you 
+can select in the ""Browse for folders"" window or drag and drop the 
+folder into the decryptor window.
+3. ""DECRYPT ONE FILE"" - decrypts a single file, which you can open in 
+the ""Open"" window or drag and drop the encrypted file into the decryptor
+ window.
+
+IMPORTANT!
+Extension of encrypted files may not coincide with the extension of files, which the decryptor suggests to open!
+To open encrypted files with other extensions, in the ""Open"" window 
+select, in the lower right corner of ""All Files (*. *)"" or just drag and
+ drop the given file into the decryptor window.
+File extension does not affect the decryption of file!
+
+Console mode has two parameters:
+1. ""-all"" - search and decrypt ALL encrypted files on the local PC and on network resources (Shares), where this PC has access.
+You can also use Group Policy to quickly decrypt your entire network.
+2. ""-path"" - decrypts files in the specified folder or a single file.
+3. Dragging and dropping an encrypted file or folder with encrypted files onto the decryptor file.
+In this mode, the console window will open automatically, which will display the decryption process.
+
+Command line examples:
+decryptor.exe -all
+decryptor.exe -path C:\Folder
+decryptor.exe -path C:\Folder\file.txt.[redacted]
+ 
+
+win_decryptor.exe
+76.5 kB",9 hours  ago
+https://www.ransomware.live/nego/Darkside/20210215,Darkside,20210215,24,gang,"You have 48 hours for support. After that, this chat will be deleted.",9 hours  ago

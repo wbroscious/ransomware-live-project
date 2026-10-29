@@ -1,0 +1,30 @@
+negotiation_url,group,negotiation_id,message_index,party,message,timestamp
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,1,gang,Do you need our help?,"Friday, 17 May 2024 08:30:51"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,2,victim,We would like to know what you are looking for from us. Your note says you copied data so we would like to understand what data you took.,"Thursday, 23 May 2024 03:55:28"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,3,gang,"[provides a compressed 7zp files list]
+this is what we took",Admin 11:10:55
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,4,gang,"We can decrypt your systems in a couple of hours for only $400,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free.",Admin 11:57:37
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,5,victim,"Okay, we are working on that for you. Can you confirm that list is all of the data that you took?",Admin 23:45:48
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,6,gang,Yes this is all we took,"Friday, 24 May 2024 08:37:03"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,7,victim,Thank you. We are working on the files but will probably not have an update until after the weekend,"Friday, 24 May 2024 19:43:14"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,8,gang,Hello. Have you managed to review?,"Monday, 27 May 2024 07:57:09"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,9,victim,Sorry we are working through one last item and it's late here. We will respond by tomorrow.,"Monday, 27 May 2024 12:30:14"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,10,gang,We need you to speed up.,"Monday, 27 May 2024 13:45:56"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,11,victim,Are you able to send us the following files from that list?,"Tuesday, 28 May 2024 03:25:26"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,12,victim,Directory of E:\[redacted 1st directory],"Tuesday, 28 May 2024 03:25:45"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,13,victim,Directory of E:\[redacted 2nd directory],"Tuesday, 28 May 2024 03:25:56"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,14,victim,Directory of E:\[redacted 3rd directory],"Tuesday, 28 May 2024 03:26:02"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,15,gang,"[provides provides 3 files]
+these are the files from the directories you that gave",Admin 07:38:02
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,16,victim,"For the first directory, are you able to provide us this file? [redacted]\[redacted].docx","Wednesday, 29 May 2024 00:23:06"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,17,victim,It looks like the full file path was originally cutoff when we requested it,"Wednesday, 29 May 2024 00:23:28"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,18,gang,[provides provides 1 more file],Admin 07:00:33
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,19,victim,h,Admin 14:39:49
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,20,gang,what?,Admin 14:51:30
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,21,gang,lets get closer to a resolution here. Are you ready to make a transaction and get all this resolved?,Admin 14:54:02
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,22,victim,We are going to have a bit more discussion today and over the weekend but should be in a good place to discuss more next week,"Thursday, 30 May 2024 05:26:24"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,23,victim,Does this work?,"Thursday, 30 May 2024 05:26:34"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,24,gang,I will be waiting for numbers from you on Monday.,"Thursday, 30 May 2024 07:54:29"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,25,gang,https://privnote.com/[redacted] use the id on the link to access a new chat to discuss the price and payment,"Thursday, 30 May 2024 11:04:54"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,26,gang,I will be waiting for you there on Monday or earlier,"Thursday, 30 May 2024 11:05:19"
+https://www.ransomware.live/nego/fog/20240517,fog,20240517,27,gang,tell me when you access the new chat,"Thursday, 30 May 2024 11:05:30"

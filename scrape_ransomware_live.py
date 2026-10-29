@@ -69,10 +69,10 @@ def positive_timeout(value: str) -> float:
     return timeout
 
 
-def fetch_html(timeout: float) -> bytes:
+def fetch_html(timeout: float, url: str = URL) -> bytes:
     """Fetch the original HTML bytes, preserving the server's encoding."""
     request = Request(
-        URL,
+        url,
         headers={
             "User-Agent": "ransomware-live-project/1.0 (single-page HTML downloader)",
             "Accept": "text/html, application/xhtml+xml",
